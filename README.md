@@ -14,5 +14,11 @@
 ## Reflections
 | Paper Name + Link  | Authors | Year/Event | 
 | ------------------ | ------- | ---------- |
-[Efficient GPU Screen-Space Ray Tracing](http://jcgt.org/published/0003/04/04/paper-lowres.pdf) | Morgan McGuire, Michael Mara | JCGT 2014 | 
+| [Efficient GPU Screen-Space Ray Tracing](http://jcgt.org/published/0003/04/04/paper-lowres.pdf) | Morgan McGuire, Michael Mara | JCGT 2014 | 
 [Stochastic Screen-Space Reflections (Stochastic SSR)](http://advances.realtimerendering.com/s2015/Stochastic%20Screen-Space%20Reflections.pptx) | Tomasz Stachowiak |SIGGRAPH 2015 | 
+
+## Misc
+| Paper Name + Link  | Authors | Year/Event | 
+| ------------------ | ------- | ---------- |
+| [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
+| [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
