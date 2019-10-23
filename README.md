@@ -14,4 +14,5 @@
 ## Reflections
 | Paper Name + Link  | Authors | Year/Event | 
 | ------------------ | ------- | ---------- |
+[Efficient GPU Screen-Space Ray Tracing](http://jcgt.org/published/0003/04/04/paper-lowres.pdf) | Morgan McGuire, Michael Mara | JCGT 2014 | 
 [Stochastic Screen-Space Reflections (Stochastic SSR)](http://advances.realtimerendering.com/s2015/Stochastic%20Screen-Space%20Reflections.pptx) | Tomasz Stachowiak |SIGGRAPH 2015 | 
