@@ -3,6 +3,7 @@
 ## Global Illumination (Diffuse)
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
+| [Instant Radiosity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.2213&rep=rep1&type=pdf) + [Slides](http://www.cs.cornell.edu/courses/cs6630/2012sp/slides/Boyadzhiev-Matzen-InstantRadiosity.pdf) | Alexander Keller | SIGGRAPH 1997 |
 | [Precomputed Radiance Transfer for Real-Time Rendering in Dynamic, Low-Frequency Lighting Environments](https://sites.fas.harvard.edu/~cs278/papers/prt.pdf) | Peter-Pike Sloan, Jan Kautz, John Snyder | SIGGRAPH 2002 |
 | [Irradiance Volumes for Games](https://developer.amd.com/wordpress/media/2012/10/Tatarchuk_Irradiance_Volumes.pdf) | N. Tatarchuk | GDC Europe 2005 |
 | [Precomputed Radiance Transfer: Theory and Practice](http://www0.cs.ucl.ac.uk/staff/j.kautz/PRTCourse/) | J. Kautz, J. Lehtinen, Peter-Pike Sloan | SIGGRAPH 2005 |
@@ -12,7 +13,9 @@
 | [Lighting Technology of "The Last of Us"](http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf) | Michał Iwanicki | SIGGRAPH 2013 |
 | [In-Game and Cinematic Lighting of The Last of Us](https://www.gdcvault.com/play/1020475/In-Game-and-Cinematic-Lighting) | Vivian Ding | GDC 2014 |
 | [Lighting Killzone: Shadow Fall](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/Drobot_Lighting_of_Killzone_Shadow_Fall.pdf) | Michal Drobot | Digital Dragons 2013 |
+| [Getting More Physical in Call of Duty: Black Ops II](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf) | Dimitar Lazarov | SIGGRAPH 2013 |
 | [Multi-Scale Global Illumination in Quantum Break](http://advances.realtimerendering.com/s2015/SIGGRAPH_2015_Remedy.pdf) | Remedy Entertainment | SIGGRAPH 2015 |
+| [Volumetric Global Illumination At Treyarch](https://www.activision.com/cdn/research/Volumetric_Global_Illumination_at_Treyarch.pdf) | JT Hooker | SIGGRAPH 2016 |
 | [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 
 ## Reflections
