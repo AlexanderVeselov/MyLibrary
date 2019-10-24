@@ -14,8 +14,10 @@
 | [In-Game and Cinematic Lighting of The Last of Us](https://www.gdcvault.com/play/1020475/In-Game-and-Cinematic-Lighting) | Vivian Ding | GDC 2014 |
 | [Lighting Killzone: Shadow Fall](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/Drobot_Lighting_of_Killzone_Shadow_Fall.pdf) | Michal Drobot | Digital Dragons 2013 |
 | [Getting More Physical in Call of Duty: Black Ops II](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf) | Dimitar Lazarov | SIGGRAPH 2013 |
+| [Taking Killzone Shadow Fall Image Quality Into The Next Generation](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GDC2014_Valient_Killzone_Graphics.pdf) | Michal Valient | GDC 2014 |
 | [Multi-Scale Global Illumination in Quantum Break](http://advances.realtimerendering.com/s2015/SIGGRAPH_2015_Remedy.pdf) | Remedy Entertainment | SIGGRAPH 2015 |
 | [Volumetric Global Illumination At Treyarch](https://www.activision.com/cdn/research/Volumetric_Global_Illumination_at_Treyarch.pdf) | JT Hooker | SIGGRAPH 2016 |
+| [Real-Time Global Illumination using Precomputed Light Field Probes](https://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf) + [Slides](http://www.cim.mcgill.ca/~derek/files/McGuire2017LightField-I3DSlides.pdf) | Morgan McGuire | i3D 2017 |
 | [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 
 ## Reflections
@@ -29,3 +31,4 @@
 | ------------------ | ------- | ---------- |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
 | [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
+| [An Adaptive Acceleration Structure for Screen-space Ray Tracing](http://jankautz.com/publications/AcceleratedSSRT_HPG15.pdf) | Sven Widmer | HPG 2015 |
