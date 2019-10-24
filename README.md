@@ -30,5 +30,6 @@
 | Paper Name + Link  | Authors | Year/Event | 
 | ------------------ | ------- | ---------- |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
-| [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
 | [An Adaptive Acceleration Structure for Screen-space Ray Tracing](http://jankautz.com/publications/AcceleratedSSRT_HPG15.pdf) | Sven Widmer | HPG 2015 |
+| [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
+| [The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn](https://www.slideshare.net/guerrillagames/the-realtime-volumetric-cloudscapes-of-horizon-zero-dawn) | Andrew Schneider | SIGGRAPH 2015 |
