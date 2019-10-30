@@ -18,6 +18,7 @@
 | [Multi-Scale Global Illumination in Quantum Break](http://advances.realtimerendering.com/s2015/SIGGRAPH_2015_Remedy.pdf) | Remedy Entertainment | SIGGRAPH 2015 |
 | [Volumetric Global Illumination At Treyarch](https://www.activision.com/cdn/research/Volumetric_Global_Illumination_at_Treyarch.pdf) | JT Hooker | SIGGRAPH 2016 |
 | [Real-Time Global Illumination using Precomputed Light Field Probes](https://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf) + [Slides](http://www.cim.mcgill.ca/~derek/files/McGuire2017LightField-I3DSlides.pdf) + [Thesis](http://www.melancholytree.com/thesis.pdf) | Morgan McGuire | i3D 2017 |
+| [Precomputed Lighting in Call of Duty Infinite Warfare](https://www.ppsloan.org/publications/CoD_IW.pptx) | Michal Iwanicki, Peter-Pike Sloan | SIGGRAPH 2017 |
 | [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 
 ## Reflections
