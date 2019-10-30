@@ -10,6 +10,7 @@
 | [Raytracing Prefiltered Occlusion for Aggregate Geometry](https://graphics.stanford.edu/~boulos/papers/prefilter_rt08.pdf) | D. Lacewell, B. Burley, S. Boulos, P. Shirley | 3rd Symposium on Interactive Ray Tracing (2008) |
 | [Real-time Diffuse Global Illumination in CryENGINE 3](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.233.71&rep=rep1&type=pdf) | Anton Kaplanyan | SIGGRAPH 2010 |
 | [Deferred Radiance Transfer Volumes: Global Illumination in Far Cry 3](https://www.gdcvault.com/play/1015326/Deferred-Radiance-Transfer-Volumes-Global) | Nikolay Stefanov | GDC 2012 |
+| [Light Probe Interpolation Using Tetrahedral Tessellations](https://www.gdcvault.com/play/1015312/Light-Probe-Interpolation-Using-Tetrahedral) | Robert Cupisz | SIGGRAPH 2012 |
 | [Lighting Technology of "The Last of Us"](http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf) | Michał Iwanicki | SIGGRAPH 2013 |
 | [In-Game and Cinematic Lighting of The Last of Us](https://www.gdcvault.com/play/1020475/In-Game-and-Cinematic-Lighting) | Vivian Ding | GDC 2014 |
 | [Lighting Killzone: Shadow Fall](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/Drobot_Lighting_of_Killzone_Shadow_Fall.pdf) | Michal Drobot | Digital Dragons 2013 |
