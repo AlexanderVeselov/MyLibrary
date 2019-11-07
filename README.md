@@ -9,6 +9,7 @@
 | [Irradiance Volumes for Games](https://developer.amd.com/wordpress/media/2012/10/Tatarchuk_Irradiance_Volumes.pdf) | N. Tatarchuk | GDC Europe 2005 |
 | [Precomputed Radiance Transfer: Theory and Practice](http://www0.cs.ucl.ac.uk/staff/j.kautz/PRTCourse/) | J. Kautz, J. Lehtinen, Peter-Pike Sloan | SIGGRAPH 2005 |
 | [Raytracing Prefiltered Occlusion for Aggregate Geometry](https://graphics.stanford.edu/~boulos/papers/prefilter_rt08.pdf) | D. Lacewell, B. Burley, S. Boulos, P. Shirley | 3rd Symposium on Interactive Ray Tracing (2008) |
+| [Approximating Dynamic Global Illumination in Image Space (SSDO)](https://www.in.tu-clausthal.de/fileadmin/homes/CG/data_pub/paper/SSDO_i3D09.pdf) | T. Ritschel, T. Grosch H.P., Seidel | i3D 2009 |
 | [Real-time Diffuse Global Illumination in CryENGINE 3](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.233.71&rep=rep1&type=pdf) | Anton Kaplanyan | SIGGRAPH 2010 |
 | [Deferred Radiance Transfer Volumes: Global Illumination in Far Cry 3](https://www.gdcvault.com/play/1015326/Deferred-Radiance-Transfer-Volumes-Global) | Nikolay Stefanov | GDC 2012 |
 | [Light Probe Interpolation Using Tetrahedral Tessellations](https://www.gdcvault.com/play/1015312/Light-Probe-Interpolation-Using-Tetrahedral) | Robert Cupisz | SIGGRAPH 2012 |
