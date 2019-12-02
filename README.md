@@ -35,6 +35,8 @@
 ## Misc
 | Paper Name + Link  | Authors | Year/Event | 
 | ------------------ | ------- | ---------- |
+| [Accelerated regular grid traversals using extended anisotropic chessboard
+distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
 | [An Adaptive Acceleration Structure for Screen-space Ray Tracing](http://jankautz.com/publications/AcceleratedSSRT_HPG15.pdf) | Sven Widmer | HPG 2015 |
 | [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
