@@ -6,6 +6,7 @@
 | [Radiosity and Realistic Image Synthesis](https://pdfs.semanticscholar.org/b292/90e5c40396b40171f2bbed6ed29843be6e31.pdf) | Michael F. Cohen | Book, 1993 |
 | [Instant Radiosity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.2213&rep=rep1&type=pdf) + [Slides](http://www.cs.cornell.edu/courses/cs6630/2012sp/slides/Boyadzhiev-Matzen-InstantRadiosity.pdf) | Alexander Keller | SIGGRAPH 1997 |
 | [Precomputed Radiance Transfer for Real-Time Rendering in Dynamic, Low-Frequency Lighting Environments](https://sites.fas.harvard.edu/~cs278/papers/prt.pdf) | Peter-Pike Sloan, Jan Kautz, John Snyder | SIGGRAPH 2002 |
+| [Global Illumination Compedinum](https://people.cs.kuleuven.be/~philip.dutre/GI/TotalCompendium.pdf) | Philip Dutré | |
 | [Irradiance Volumes for Games](https://developer.amd.com/wordpress/media/2012/10/Tatarchuk_Irradiance_Volumes.pdf) | N. Tatarchuk | GDC Europe 2005 |
 | [Precomputed Radiance Transfer: Theory and Practice](http://www0.cs.ucl.ac.uk/staff/j.kautz/PRTCourse/) | J. Kautz, J. Lehtinen, Peter-Pike Sloan | SIGGRAPH 2005 |
 | [Raytracing Prefiltered Occlusion for Aggregate Geometry](https://graphics.stanford.edu/~boulos/papers/prefilter_rt08.pdf) | D. Lacewell, B. Burley, S. Boulos, P. Shirley | 3rd Symposium on Interactive Ray Tracing (2008) |
