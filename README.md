@@ -20,6 +20,7 @@
 | [Getting More Physical in Call of Duty: Black Ops II](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf) | Dimitar Lazarov | SIGGRAPH 2013 |
 | [Taking Killzone Shadow Fall Image Quality Into The Next Generation](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GDC2014_Valient_Killzone_Graphics.pdf) | Michal Valient | GDC 2014 |
 | [Multi-Scale Global Illumination in Quantum Break](http://advances.realtimerendering.com/s2015/SIGGRAPH_2015_Remedy.pdf) | Remedy Entertainment | SIGGRAPH 2015 |
+| [Global Illumination in Tom Clancy’s The Division](http://mrakobes.com/Nikolay.Stefanov.GDC.2016.pdf) | Nikolay Stefanov | GDC 2016 |
 | [Volumetric Global Illumination At Treyarch](https://www.activision.com/cdn/research/Volumetric_Global_Illumination_at_Treyarch.pdf) | JT Hooker | SIGGRAPH 2016 |
 | [Real-Time Global Illumination using Precomputed Light Field Probes](https://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf) + [Slides](http://www.cim.mcgill.ca/~derek/files/McGuire2017LightField-I3DSlides.pdf) + [Thesis](http://www.melancholytree.com/thesis.pdf) | Morgan McGuire | i3D 2017 |
 | [Rendering of Call of Duty Infinite Warfare](https://www.activision.com/cdn/research/2017_DD_Rendering_of_COD_IW.pdf) | Michal Drobot | Digital Dragons 2017 |
