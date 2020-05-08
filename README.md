@@ -48,3 +48,4 @@
 | [The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn](https://www.slideshare.net/guerrillagames/the-realtime-volumetric-cloudscapes-of-horizon-zero-dawn) | Andrew Schneider | SIGGRAPH 2015 |
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
+| [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
