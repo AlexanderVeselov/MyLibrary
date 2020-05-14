@@ -42,6 +42,7 @@
 | Paper Name + Link  | Authors | Year/Event | 
 | ------------------ | ------- | ---------- |
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
+| [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1662&context=etd) | Justin Talbot | EGS 2005 |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
 | [An Adaptive Acceleration Structure for Screen-space Ray Tracing](http://jankautz.com/publications/AcceleratedSSRT_HPG15.pdf) | Sven Widmer | HPG 2015 |
 | [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
@@ -49,3 +50,4 @@
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
+| [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://developer.download.nvidia.com/devblogs/ReSTIR.pdf) | Bitterli et. al. | SIGGRAPH 2020 |
