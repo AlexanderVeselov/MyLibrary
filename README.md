@@ -47,6 +47,8 @@
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1662&context=etd) | Justin Talbot | EGS 2005 |
 | [Image Space Gathering](https://research.nvidia.com/sites/default/files/pubs/2009-08_Image-Space-Gathering/HPG09-ISG.pdf?ncid=afm-chs-44270&ranMID=44270&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-Z7zs.eM2DDMLdR1VNbJwCg) | Austin Robison, Peter Shirley | HPG 2009 |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
+| [Axis-Aligned Filtering for Interactive Sampled Soft Shadows](http://graphics.berkeley.edu/papers/UdayMehta-AAF-2012-12/UdayMehta-AAF-2012-12.pdf) | Mehta et al. | SIGGRAPH 2012 |
+| [Axis-Aligned Filtering for Interactive Physically-Based Diffuse Indirect Lighting](http://graphics.berkeley.edu/papers/Udaymehta-IPB-2013-07/Udaymehta-IPB-2013-07.pdf) | Mehta et al. | SIGGRAPH 2013 |
 | [An Adaptive Acceleration Structure for Screen-space Ray Tracing](http://jankautz.com/publications/AcceleratedSSRT_HPG15.pdf) | Sven Widmer | HPG 2015 |
 | [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
 | [The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn](https://www.slideshare.net/guerrillagames/the-realtime-volumetric-cloudscapes-of-horizon-zero-dawn) | Andrew Schneider | SIGGRAPH 2015 |
