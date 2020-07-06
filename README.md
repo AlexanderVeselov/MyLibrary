@@ -46,6 +46,7 @@
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1662&context=etd) | Justin Talbot | EGS 2005 |
 | [Image Space Gathering](https://research.nvidia.com/sites/default/files/pubs/2009-08_Image-Space-Gathering/HPG09-ISG.pdf?ncid=afm-chs-44270&ranMID=44270&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-Z7zs.eM2DDMLdR1VNbJwCg) | Austin Robison, Peter Shirley | HPG 2009 |
+| [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf) | Takahiro Harada, Lee Howes | 2011 |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
 | [Axis-Aligned Filtering for Interactive Sampled Soft Shadows](http://graphics.berkeley.edu/papers/UdayMehta-AAF-2012-12/UdayMehta-AAF-2012-12.pdf) | Mehta et al. | SIGGRAPH 2012 |
 | [Axis-Aligned Filtering for Interactive Physically-Based Diffuse Indirect Lighting](http://graphics.berkeley.edu/papers/Udaymehta-IPB-2013-07/Udaymehta-IPB-2013-07.pdf) | Mehta et al. | SIGGRAPH 2013 |
