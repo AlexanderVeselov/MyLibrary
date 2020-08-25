@@ -30,6 +30,7 @@
 | [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 | [Exploring Ray Traced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf) | Shyshkovtsov, Karmalsky, Archard, Zhdan | GDC 2019 |
 | [Fast Non-uniform Radiance Probe Placement and Tracing](http://cim.mcgill.ca/~derek/files/NonUniformProbes-paper.pdf) | Wang et. al. | i3D 2019 |
+| [Neural Temporal Adaptive Sampling and Denoising](https://research.nvidia.com/sites/default/files/pubs/2020-05_Neural-Temporal-Adaptive/NTASAD_preprint.pdf) | Hasselgren, Munkberg, Salvi, Patney, Lefohn | Eurographics 2020 |
 | [The design and evolution of the UberBake light baking system](https://darioseyb.com/pdf/seyb20uberbake.pdf) | Seyb, Sloan, Silvennoinen, Iwanicki, Jarosz | SIGGRAPH 2020 |
 
 ## Reflections
