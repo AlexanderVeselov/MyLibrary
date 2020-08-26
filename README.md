@@ -50,6 +50,7 @@
 | [Efficient Sparse Voxel Octrees](https://research.nvidia.com/publication/efficient-sparse-voxel-octrees) | Samuli Laine, Tero Karras | i3D 2010 |
 | [Spatio-Temporal Upsampling on the GPU](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.230.344&rep=rep1&type=pdf) | Robert Herzog, Elmar Eisemann, Karol Myszkowski, H.-P. Seidel | SIGGRAPH 2010 |
 | [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf) | Takahiro Harada, Lee Howes | 2011 |
+| [VoxelPipe: A Programmable Pipeline for 3D Voxelization](https://research.nvidia.com/publication/voxelpipe-programmable-pipeline-3d-voxelization) | Jacopo Pantaleoni | HPG 2011 |
 | [The Compact YCoCg Frame Buffer](http://jcgt.org/published/0001/01/02/paper.pdf) | Pavlos Mavridis, Georgios Papaioannou | JCGT 2012 |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
 | [Axis-Aligned Filtering for Interactive Sampled Soft Shadows](http://graphics.berkeley.edu/papers/UdayMehta-AAF-2012-12/UdayMehta-AAF-2012-12.pdf) | Mehta et al. | SIGGRAPH 2012 |
@@ -69,3 +70,4 @@
 | [Practical Product Sampling by Fitting and Composing Warps](http://casual-effects.com/research/Hart2020Sampling/index.html) | Hart et. al. | SIGGRAPH 2020 |
 | [Introduction to the Vulkan Computer Graphics API](http://web.engr.oregonstate.edu/~mjb/vulkan/Handouts/FULL.1pp.pdf) | Mike Bailey | SIGGRAPH 2020 |
 | [Continuous Multiple Importance Sampling](http://iliyan.com/publications/ContinuousMIS/ContinuousMIS_Sig2020.pdf) | Rex West, Iliyan Georgiev, Adrien Gruson, Toshiya Hachisuka | SIGGRAPH 2020 |
+| [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547.pdf) | Jacopo Pantaleoni | arXiv 2020 |
