@@ -47,6 +47,7 @@
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1662&context=etd) | Justin Talbot | EGS 2005 |
 | [Image Space Gathering](https://research.nvidia.com/sites/default/files/pubs/2009-08_Image-Space-Gathering/HPG09-ISG.pdf?ncid=afm-chs-44270&ranMID=44270&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-Z7zs.eM2DDMLdR1VNbJwCg) | Austin Robison, Peter Shirley | HPG 2009 |
+| [Efficient Sparse Voxel Octrees](https://research.nvidia.com/publication/efficient-sparse-voxel-octrees) | Samuli Laine, Tero Karras | i3D 2010 |
 | [Spatio-Temporal Upsampling on the GPU](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.230.344&rep=rep1&type=pdf) | Robert Herzog, Elmar Eisemann, Karol Myszkowski, H.-P. Seidel | SIGGRAPH 2010 |
 | [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf) | Takahiro Harada, Lee Howes | 2011 |
 | [The Compact YCoCg Frame Buffer](http://jcgt.org/published/0001/01/02/paper.pdf) | Pavlos Mavridis, Georgios Papaioannou | JCGT 2012 |
