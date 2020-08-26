@@ -65,3 +65,4 @@
 | [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://developer.download.nvidia.com/devblogs/ReSTIR.pdf) | Bitterli et. al. | SIGGRAPH 2020 |
 | [Advances in Monte Carlo Rendering: The Legacy of Jaroslav Krivanek](http://www.iliyan.com/publications/Siggraph2020Course/Siggraph2020Course_Notes.pdf) | Keller et. al. | SIGGRAPH 2020 |
 | [Practical Product Sampling by Fitting and Composing Warps](http://casual-effects.com/research/Hart2020Sampling/index.html) | Hart et. al. | SIGGRAPH 2020 |
+| [Introduction to the Vulkan Computer Graphics API](http://web.engr.oregonstate.edu/~mjb/vulkan/Handouts/FULL.1pp.pdf) | Mike Bailey | SIGGRAPH 2020 |
