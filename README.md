@@ -1,4 +1,5 @@
 # MyLibrary
+- [ ] TODO: organize this in a better way
 
 ## Global Illumination (Diffuse)
 | Paper Name + Link  | Authors | Year/Event | 
