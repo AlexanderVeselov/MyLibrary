@@ -67,6 +67,7 @@
 | [Dynamic Occlusion with Signed Distance Fields](http://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf) | Daniel Wright | SIGGRAPH 2015 |
 | [Horizon Occlusion for Normal Mapped Reflections](https://marmosetco.tumblr.com/post/81245981087) | Jeff Russell | 2015 |
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
+| [The devil is in the details:  idTech 666](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf) | Tiago Sousa, Jean Geffroy | SIGGRAPH 2016 |
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
 | [A Life of a Bokeh](https://advances.realtimerendering.com/s2018/2018-08-13-SIGGRAPH-A-Life-of-a-Bokeh.pptx) | Guillaume Abadie | SIGGRAPH 2018 |
 | [Checkerboard rendering in Dark Souls: Remastered](https://youtu.be/2rq_Ky6B_5g) | Pursche, Vennstrom | DD 2019 |
