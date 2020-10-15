@@ -68,6 +68,7 @@
 | [Horizon Occlusion for Normal Mapped Reflections](https://marmosetco.tumblr.com/post/81245981087) | Jeff Russell | 2015 |
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
+| [A Life of a Bokeh](https://advances.realtimerendering.com/s2018/2018-08-13-SIGGRAPH-A-Life-of-a-Bokeh.pptx) | Guillaume Abadie | SIGGRAPH 2018 |
 | [Checkerboard rendering in Dark Souls: Remastered](https://youtu.be/2rq_Ky6B_5g) | Pursche, Vennstrom | DD 2019 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
 | [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf) | Lei Yang, Shiqiu Liu, Marco Salvi | Eurographics 2020 |
