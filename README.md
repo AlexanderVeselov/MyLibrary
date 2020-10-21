@@ -68,17 +68,20 @@
 | [Dynamic Occlusion with Signed Distance Fields](http://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf) | Daniel Wright | SIGGRAPH 2015 |
 | [Horizon Occlusion for Normal Mapped Reflections](https://marmosetco.tumblr.com/post/81245981087) | Jeff Russell | 2015 |
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
+| [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) | Eric Heitz et al. | SIGGRAPH 2016 |
 | [The devil is in the details:  idTech 666](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf) | Tiago Sousa, Jean Geffroy | SIGGRAPH 2016 |
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
 | [A Life of a Bokeh](https://advances.realtimerendering.com/s2018/2018-08-13-SIGGRAPH-A-Life-of-a-Bokeh.pptx) | Guillaume Abadie | SIGGRAPH 2018 |
+| [Sampling the GGX Distribution of Visible Normals](http://jcgt.org/published/0007/04/01/) | Eric Heitz | JCGT 2018 |
 | [Checkerboard rendering in Dark Souls: Remastered](https://youtu.be/2rq_Ky6B_5g) | Pursche, Vennstrom | DD 2019 |
 | [On Histogram-preserving Blending for Randomized Texture Tiling](http://www.jcgt.org/published/0008/04/02/paper.pdf) | Brent Burley | JCGT 2019 |
+| [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://perso.liris.cnrs.fr/david.coeurjolly/publications/heitz19.html) | Eric Heitz et al. | SIGGRAPH 2019 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
 | [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf) | Lei Yang, Shiqiu Liu, Marco Salvi | Eurographics 2020 |
 | [Can’t Invert the CDF? The Triangle-Cut Parameterization of the Region under the Curve](https://eheitzresearch.wordpress.com/792-2/) | Eric Heitz | EGSR 2020 |
-| [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://developer.download.nvidia.com/devblogs/ReSTIR.pdf) | Bitterli et. al. | SIGGRAPH 2020 |
-| [Advances in Monte Carlo Rendering: The Legacy of Jaroslav Krivanek](http://www.iliyan.com/publications/Siggraph2020Course/Siggraph2020Course_Notes.pdf) | Keller et. al. | SIGGRAPH 2020 |
-| [Practical Product Sampling by Fitting and Composing Warps](http://casual-effects.com/research/Hart2020Sampling/index.html) | Hart et. al. | SIGGRAPH 2020 |
+| [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://developer.download.nvidia.com/devblogs/ReSTIR.pdf) | Bitterli et al. | SIGGRAPH 2020 |
+| [Advances in Monte Carlo Rendering: The Legacy of Jaroslav Krivanek](http://www.iliyan.com/publications/Siggraph2020Course/Siggraph2020Course_Notes.pdf) | Keller et al. | SIGGRAPH 2020 |
+| [Practical Product Sampling by Fitting and Composing Warps](http://casual-effects.com/research/Hart2020Sampling/index.html) | Hart et al. | SIGGRAPH 2020 |
 | [Introduction to the Vulkan Computer Graphics API](http://web.engr.oregonstate.edu/~mjb/vulkan/Handouts/FULL.1pp.pdf) | Mike Bailey | SIGGRAPH 2020 |
 | [Continuous Multiple Importance Sampling](http://iliyan.com/publications/ContinuousMIS/ContinuousMIS_Sig2020.pdf) | Rex West, Iliyan Georgiev, Adrien Gruson, Toshiya Hachisuka | SIGGRAPH 2020 |
 | [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547.pdf) | Jacopo Pantaleoni | arXiv 2020 |
