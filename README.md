@@ -47,10 +47,18 @@
 | ------------------ | ------- | ---------- |
 | [Robust monte carlo methods for light transport simulation](http://cseweb.ucsd.edu/~viscomp/classes/cse274/wi18/readings/veach_thesis.pdf) | Eric Veach | 1997 |
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
+| [Half-Life 2 / Valve Source Shading](https://steamcdn-a.akamaihd.net/apps/valve/2004/GDC2004_Half-Life2_Shading.pdf) | Gary McTaggart | GDC 2004 |
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1662&context=etd) | Justin Talbot | EGS 2005 |
+| [HDR in Valve’s Source Engine ](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_HDRInValvesSourceEngine_Slides.pdf) | Gary McTaggart | SIGGRAPH 2006 |
+| [Shading in Valve’s Source Engine](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine.pdf) + [Slides](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine_Slides.pdf) | Jason Mitchell, Gary McTaggart, Chris Green | SIGGRAPH 2006 |
+| [Efficient Self-Shadowed Radiosity Normal Mapping](https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_EfficientSelfShadowedRadiosityNormalMapping.pdf) | Chris Green | SIGGRAPH 2007 |
+| [Post Processing in The Orange Box](https://steamcdn-a.akamaihd.net/apps/valve/2008/GDC2008_PostProcessingInTheOrangeBox.pdf) | Alex Vlachos | GDC 2008 |
 | [Image Space Gathering](https://research.nvidia.com/sites/default/files/pubs/2009-08_Image-Space-Gathering/HPG09-ISG.pdf?ncid=afm-chs-44270&ranMID=44270&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-Z7zs.eM2DDMLdR1VNbJwCg) | Austin Robison, Peter Shirley | HPG 2009 |
+| [Shading a Bigger, Better Sequel: Techniques in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/GDC10_ShaderTechniquesL4D2.pdf) | Bronwen Grimes | GDC 2010 |
+| [Rendering Wounds in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/gdc2010_vlachos_l4d2wounds.pdf) | Alex Vlachos | GDC 2010 |
 | [Efficient Sparse Voxel Octrees](https://research.nvidia.com/publication/efficient-sparse-voxel-octrees) | Samuli Laine, Tero Karras | i3D 2010 |
 | [Spatio-Temporal Upsampling on the GPU](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.230.344&rep=rep1&type=pdf) | Robert Herzog, Elmar Eisemann, Karol Myszkowski, H.-P. Seidel | SIGGRAPH 2010 |
+| [Water Flow in Portal 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/siggraph2010_vlachos_waterflow.pdf) | Alex Vlachos | SIGGRAPH 2010 |
 | [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf) | Takahiro Harada, Lee Howes | 2011 |
 | [VoxelPipe: A Programmable Pipeline for 3D Voxelization](https://research.nvidia.com/publication/voxelpipe-programmable-pipeline-3d-voxelization) | Jacopo Pantaleoni | HPG 2011 |
 | [The Compact YCoCg Frame Buffer](http://jcgt.org/published/0001/01/02/paper.pdf) | Pavlos Mavridis, Georgios Papaioannou | JCGT 2012 |
@@ -85,3 +93,4 @@
 | [Introduction to the Vulkan Computer Graphics API](http://web.engr.oregonstate.edu/~mjb/vulkan/Handouts/FULL.1pp.pdf) | Mike Bailey | SIGGRAPH 2020 |
 | [Continuous Multiple Importance Sampling](http://iliyan.com/publications/ContinuousMIS/ContinuousMIS_Sig2020.pdf) | Rex West, Iliyan Georgiev, Adrien Gruson, Toshiya Hachisuka | SIGGRAPH 2020 |
 | [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547.pdf) | Jacopo Pantaleoni | arXiv 2020 |
+| [Surface Gradient–Based Bump Mapping Framework](http://jcgt.org/published/0009/03/04/) | Morten S. Mikkelsen | JCGT 2020 |
