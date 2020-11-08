@@ -66,6 +66,7 @@
 | [Axis-Aligned Filtering for Interactive Sampled Soft Shadows](http://graphics.berkeley.edu/papers/UdayMehta-AAF-2012-12/UdayMehta-AAF-2012-12.pdf) | Mehta et al. | SIGGRAPH 2012 |
 | [Axis-Aligned Filtering for Interactive Physically-Based Diffuse Indirect Lighting](http://graphics.berkeley.edu/papers/Udaymehta-IPB-2013-07/Udaymehta-IPB-2013-07.pdf) | Mehta et al. | SIGGRAPH 2013 |
 | [Real Shading in Unreal Engine 4](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf) | Brian Karis | SIGGRAPH 2013 |
+| [Specular BRDF Reference](http://graphicrants.blogspot.com/2013/08/specular-brdf-reference.html) | Brian Karis | Site, 2013 |
 | [CRYENGINE 3 Graphics Gems](http://advances.realtimerendering.com/s2013/Sousa_Graphics_Gems_CryENGINE3.pptx) | Tiago Sousa | SIGGRAPH 2013 |
 | [Next Generation Post Processing in Call of Duty: Advanced Warfare](http://advances.realtimerendering.com/s2014/#_NEXT_GENERATION_POST) | Jorge Jimenez | SIGGRAPH 2014 |
 | [High-Quality Temporal Supersampling](http://advances.realtimerendering.com/s2014/#_HIGH-QUALITY_TEMPORAL_SUPERSAMPLING) | Brian Karis | SIGGRAPH 2014 |
