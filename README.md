@@ -83,6 +83,7 @@
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
 | [A Life of a Bokeh](https://advances.realtimerendering.com/s2018/2018-08-13-SIGGRAPH-A-Life-of-a-Bokeh.pptx) | Guillaume Abadie | SIGGRAPH 2018 |
 | [Sampling the GGX Distribution of Visible Normals](http://jcgt.org/published/0007/04/01/) | Eric Heitz | JCGT 2018 |
+| [Deferred Adaptive Compute Shading](https://geometrian.com/data/research/dacs/dacs-hpg2018-pres.pdf) | Ian Mallett, Cem Yuksel | HPG 2018 |
 | [Checkerboard rendering in Dark Souls: Remastered](https://youtu.be/2rq_Ky6B_5g) | Pursche, Vennstrom | DD 2019 |
 | [On Histogram-preserving Blending for Randomized Texture Tiling](http://www.jcgt.org/published/0008/04/02/paper.pdf) | Brent Burley | JCGT 2019 |
 | [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://perso.liris.cnrs.fr/david.coeurjolly/publications/heitz19.html) | Eric Heitz et al. | SIGGRAPH 2019 |
