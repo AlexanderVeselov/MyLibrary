@@ -94,6 +94,7 @@
 | [Advances in Monte Carlo Rendering: The Legacy of Jaroslav Krivanek](http://www.iliyan.com/publications/Siggraph2020Course/Siggraph2020Course_Notes.pdf) | Keller et al. | SIGGRAPH 2020 |
 | [Practical Product Sampling by Fitting and Composing Warps](http://casual-effects.com/research/Hart2020Sampling/index.html) | Hart et al. | SIGGRAPH 2020 |
 | [Introduction to the Vulkan Computer Graphics API](http://web.engr.oregonstate.edu/~mjb/vulkan/Handouts/FULL.1pp.pdf) | Mike Bailey | SIGGRAPH 2020 |
+| [Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints](http://rgl.epfl.ch/publications/Zeltner2020Specular) | Tizian Zeltner, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2020 |
 | [Continuous Multiple Importance Sampling](http://iliyan.com/publications/ContinuousMIS/ContinuousMIS_Sig2020.pdf) | Rex West, Iliyan Georgiev, Adrien Gruson, Toshiya Hachisuka | SIGGRAPH 2020 |
 | [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547.pdf) | Jacopo Pantaleoni | arXiv 2020 |
 | [Surface Gradient–Based Bump Mapping Framework](http://jcgt.org/published/0009/03/04/) | Morten S. Mikkelsen | JCGT 2020 |
