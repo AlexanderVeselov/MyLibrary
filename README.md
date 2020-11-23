@@ -86,8 +86,10 @@
 | [Deferred Adaptive Compute Shading](https://geometrian.com/data/research/dacs/dacs-hpg2018-pres.pdf) | Ian Mallett, Cem Yuksel | HPG 2018 |
 | [Checkerboard rendering in Dark Souls: Remastered](https://youtu.be/2rq_Ky6B_5g) | Pursche, Vennstrom | DD 2019 |
 | [On Histogram-preserving Blending for Randomized Texture Tiling](http://www.jcgt.org/published/0008/04/02/paper.pdf) | Brent Burley | JCGT 2019 |
+| [Stochastic Lightcuts](http://www.cemyuksel.com/research/stochasticlightcuts/) | Cem Yuksel | HPG 2019 |
 | [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://perso.liris.cnrs.fr/david.coeurjolly/publications/heitz19.html) | Eric Heitz et al. | SIGGRAPH 2019 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
+| [Real-Time Stochastic Lightcuts](https://dqlin.xyz/pubs/2020-i3d-SLC/) | Daqi Lin, Cem Yuksel | i3D 2020 |
 | [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf) | Lei Yang, Shiqiu Liu, Marco Salvi | Eurographics 2020 |
 | [Can’t Invert the CDF? The Triangle-Cut Parameterization of the Region under the Curve](https://eheitzresearch.wordpress.com/792-2/) | Eric Heitz | EGSR 2020 |
 | [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://developer.download.nvidia.com/devblogs/ReSTIR.pdf) | Bitterli et al. | SIGGRAPH 2020 |
