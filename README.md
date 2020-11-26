@@ -89,6 +89,7 @@
 | [Stochastic Lightcuts](http://www.cemyuksel.com/research/stochasticlightcuts/) | Cem Yuksel | HPG 2019 |
 | [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://perso.liris.cnrs.fr/david.coeurjolly/publications/heitz19.html) | Eric Heitz et al. | SIGGRAPH 2019 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
+| [Stochastic Substitute Trees for Real-Time Global Illumination](https://www.markussteinberger.net/papers/SST.pdf) + [Code](https://github.com/wotatz/sst-demo) | Wolfgang Tatzgern, Benedikt Mayr, Bernhard Kerbl, Markus Steinberger | i3D 2020 |
 | [Real-Time Stochastic Lightcuts](https://dqlin.xyz/pubs/2020-i3d-SLC/) | Daqi Lin, Cem Yuksel | i3D 2020 |
 | [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf) | Lei Yang, Shiqiu Liu, Marco Salvi | Eurographics 2020 |
 | [Can’t Invert the CDF? The Triangle-Cut Parameterization of the Region under the Curve](https://eheitzresearch.wordpress.com/792-2/) | Eric Heitz | EGSR 2020 |
