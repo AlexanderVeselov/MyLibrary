@@ -74,7 +74,7 @@
 | [Moving Frostbite to Physically Based Rendering](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf) | Sebastien Lagarde, Charles de Rousiers | SIGGRAPH 2014 |
 | [An Adaptive Acceleration Structure for Screen-space Ray Tracing](http://jankautz.com/publications/AcceleratedSSRT_HPG15.pdf) | Sven Widmer | HPG 2015 |
 | [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
-| [The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn](https://www.slideshare.net/guerrillagames/the-realtime-volumetric-cloudscapes-of-horizon-zero-dawn) | Andrew Schneider | SIGGRAPH 2015 |
+| [The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn](https://www.guerrilla-games.com/read/the-real-time-volumetric-cloudscapes-of-horizon-zero-dawn) | Andrew Schneider | SIGGRAPH 2015 |
 | [Dynamic Occlusion with Signed Distance Fields](http://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf) | Daniel Wright | SIGGRAPH 2015 |
 | [Horizon Occlusion for Normal Mapped Reflections](https://marmosetco.tumblr.com/post/81245981087) | Jeff Russell | 2015 |
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
