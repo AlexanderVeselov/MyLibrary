@@ -73,6 +73,7 @@
 | [A Life of a Bokeh](https://advances.realtimerendering.com/s2018/2018-08-13-SIGGRAPH-A-Life-of-a-Bokeh.pptx) | Guillaume Abadie | SIGGRAPH 2018 |
 | [Sampling the GGX Distribution of Visible Normals](http://jcgt.org/published/0007/04/01/) | Eric Heitz | JCGT 2018 |
 | [Deferred Adaptive Compute Shading](https://geometrian.com/data/research/dacs/dacs-hpg2018-pres.pdf) | Ian Mallett, Cem Yuksel | HPG 2018 |
+| [Gradient Estimation for Real-Time Adaptive Temporal Filtering](http://cg.ivd.kit.edu/atf.php) | Christoph Schied, Christoph Peters, Carsten Dachsbacher | PACMCGIT 2018 |
 | [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 | [Exploring Ray Traced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf) | Shyshkovtsov, Karmalsky, Archard, Zhdan | GDC 2019 |
 | [Fast Non-uniform Radiance Probe Placement and Tracing](http://cim.mcgill.ca/~derek/files/NonUniformProbes-paper.pdf) | Wang et. al. | i3D 2019 |
