@@ -21,6 +21,7 @@
 | [Raytracing Prefiltered Occlusion for Aggregate Geometry](https://graphics.stanford.edu/~boulos/papers/prefilter_rt08.pdf) | D. Lacewell, B. Burley, S. Boulos, P. Shirley | 3rd Symposium on Interactive Ray Tracing (2008) |
 | [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf) | Peter-Pike Sloan | GDC 2008 |
 | [Post Processing in The Orange Box](https://steamcdn-a.akamaihd.net/apps/valve/2008/GDC2008_PostProcessingInTheOrangeBox.pdf) | Alex Vlachos | GDC 2008 |
+| [Image-Space Horizon-Based Ambient Occlusion](http://rdimitrov.twistedsanity.net/HBAO_SIGGRAPH08.pdf) + [Presentation](https://developer.download.nvidia.com/presentations/2008/SIGGRAPH/HBAO_SIG08b.pdf) | Louis Bavoil, Miguel Sainz, Rouslan Dimitrov | SIGGRAPH 2008 |
 | [Approximating Dynamic Global Illumination in Image Space (SSDO)](https://www.in.tu-clausthal.de/fileadmin/homes/CG/data_pub/paper/SSDO_i3D09.pdf) | T. Ritschel, T. Grosch H.P., Seidel | i3D 2009 |
 | [Image Space Gathering](https://research.nvidia.com/sites/default/files/pubs/2009-08_Image-Space-Gathering/HPG09-ISG.pdf?ncid=afm-chs-44270&ranMID=44270&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-Z7zs.eM2DDMLdR1VNbJwCg) | Austin Robison, Peter Shirley | HPG 2009 |
 | [Real-time Diffuse Global Illumination in CryENGINE 3](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.233.71&rep=rep1&type=pdf) | Anton Kaplanyan | SIGGRAPH 2010 |
