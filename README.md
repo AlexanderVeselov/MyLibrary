@@ -33,6 +33,7 @@
 | [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf) | Takahiro Harada, Lee Howes | 2011 |
 | [VoxelPipe: A Programmable Pipeline for 3D Voxelization](https://research.nvidia.com/publication/voxelpipe-programmable-pipeline-3d-voxelization) | Jacopo Pantaleoni | HPG 2011 |
 | [Deferred Radiance Transfer Volumes: Global Illumination in Far Cry 3](https://www.gdcvault.com/play/1015326/Deferred-Radiance-Transfer-Volumes-Global) | Nikolay Stefanov | GDC 2012 |
+| [Stable SSAO in Battlefield 3 with Selective Temporal Filtering (Video)](https://www.gdcvault.com/play/1015538/Stable-SSAO-in-Battlefield-3) + [Slides](https://www.ea.com/frostbite/news/stable-ssao-in-battlefield-3-with-selective-temporal-filtering) | Louis Bavoil | GDC 2012 |
 | [Light Probe Interpolation Using Tetrahedral Tessellations](https://www.gdcvault.com/play/1015312/Light-Probe-Interpolation-Using-Tetrahedral) | Robert Cupisz | SIGGRAPH 2012 |
 | [The Compact YCoCg Frame Buffer](http://jcgt.org/published/0001/01/02/paper.pdf) | Pavlos Mavridis, Georgios Papaioannou | JCGT 2012 |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
