@@ -100,5 +100,6 @@
 | [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547.pdf) | Jacopo Pantaleoni | ArXiv 2020 |
 | [Surface Gradient–Based Bump Mapping Framework](http://jcgt.org/published/0009/03/04/) | Morten S. Mikkelsen | JCGT 2020 |
 | [Raytraced Shadows in Call of Duty: Modern Warfare](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf) | Michal Olejnik, Pawel Kozlowski | DD 2020 |
+| [Creating EA's Next Generation Hair Technology](https://youtu.be/HPgWKev7B3g) | Jon Valdes, Robin Taillandier | DD 2020 |
 | [Perceptual Error Optimization for Monte Carlo Rendering](https://arxiv.org/pdf/2012.02344.pdf) | Vassillen Chizhov, Iliyan Georgiev, Karol Myszkowski, Gurprit Singh | ArXiv 2020 |
 | [Ray-Traced Glossy Reflections Using Screen-Space Roughness](https://www.nvidia.com/en-us/on-demand/session/gtcfall20-a21792/) | Peter Kristof | GTC 2020 |
