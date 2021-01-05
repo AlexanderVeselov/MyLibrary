@@ -44,6 +44,7 @@
 | [Specular BRDF Reference](http://graphicrants.blogspot.com/2013/08/specular-brdf-reference.html) | Brian Karis | Site, 2013 |
 | [Tone Mapping](http://graphicrants.blogspot.com/2013/12/tone-mapping.html) | Brian Karis | Site, 2013 |
 | [CRYENGINE 3 Graphics Gems](http://advances.realtimerendering.com/s2013/Sousa_Graphics_Gems_CryENGINE3.pptx) | Tiago Sousa | SIGGRAPH 2013 |
+| [Playing with Real-Time Shadows (CRYENGINE 3)](https://www.realtimeshadows.com/sites/default/files/Playing%20with%20Real-Time%20Shadows_0.pdf) | Nikolas Kasyan | SIGGRAPH 2013 |
 | [In-Game and Cinematic Lighting of The Last of Us](https://www.gdcvault.com/play/1020475/In-Game-and-Cinematic-Lighting) | Vivian Ding | GDC 2014 |
 | [Efficient GPU Screen-Space Ray Tracing](http://jcgt.org/published/0003/04/04/paper-lowres.pdf) | Morgan McGuire, Michael Mara | JCGT 2014 | 
 | [Lighting Killzone: Shadow Fall](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/Drobot_Lighting_of_Killzone_Shadow_Fall.pdf) | Michal Drobot | Digital Dragons 2013 |
