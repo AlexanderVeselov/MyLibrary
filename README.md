@@ -17,6 +17,7 @@
 | [HDR in Valve’s Source Engine ](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_HDRInValvesSourceEngine_Slides.pdf) | Gary McTaggart | SIGGRAPH 2006 |
 | [Shading in Valve’s Source Engine](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine.pdf) + [Slides](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine_Slides.pdf) | Jason Mitchell, Gary McTaggart, Chris Green | SIGGRAPH 2006 |
 | [Efficient Self-Shadowed Radiosity Normal Mapping](https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_EfficientSelfShadowedRadiosityNormalMapping.pdf) | Chris Green | SIGGRAPH 2007 |
+| [Finding Next Gen – CryEngine 2](http://developer.amd.com/wordpress/media/2012/10/Chapter8-Mittring-Finding_NextGen_CryEngine2.pdf) | Martin Mittring | SIGGRAPH 2007 |
 | [Microfacet Models for Refraction through Rough Surfaces](https://www.graphics.cornell.edu/~bjw/microfacetbsdf.pdf) | Bruce Walter, Stephen R. Marschner, Hongsong  Li, Kenneth E. Torrance | ESGR 2007 |
 | [Raytracing Prefiltered Occlusion for Aggregate Geometry](https://graphics.stanford.edu/~boulos/papers/prefilter_rt08.pdf) | D. Lacewell, B. Burley, S. Boulos, P. Shirley | 3rd Symposium on Interactive Ray Tracing (2008) |
 | [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf) | Peter-Pike Sloan | GDC 2008 |
