@@ -33,6 +33,7 @@
 | [Spatio-Temporal Upsampling on the GPU](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.230.344&rep=rep1&type=pdf) | Robert Herzog, Elmar Eisemann, Karol Myszkowski, H.-P. Seidel | SIGGRAPH 2010 |
 | [Water Flow in Portal 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/siggraph2010_vlachos_waterflow.pdf) | Alex Vlachos | SIGGRAPH 2010 |
 | [Real-time Diffuse Global Illumination in CryENGINE 3](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.233.71&rep=rep1&type=pdf) | Anton Kaplanyan | SIGGRAPH 2010 |
+| [A Real-Time Radiosity Architecture for Video Game](https://advances.realtimerendering.com/s2010/Martin-Einarsson-RadiosityArchitecture(SIGGRAPH%202010%20Advanced%20RealTime%20Rendering%20Course).pdf) | Sam Martin, Per Einarsson | SIGGRAPH 2010 |
 | [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf) | Takahiro Harada, Lee Howes | 2011 |
 | [VoxelPipe: A Programmable Pipeline for 3D Voxelization](https://research.nvidia.com/publication/voxelpipe-programmable-pipeline-3d-voxelization) | Jacopo Pantaleoni | HPG 2011 |
 | [Deferred Radiance Transfer Volumes: Global Illumination in Far Cry 3](https://www.gdcvault.com/play/1015326/Deferred-Radiance-Transfer-Volumes-Global) | Nikolay Stefanov | GDC 2012 |
