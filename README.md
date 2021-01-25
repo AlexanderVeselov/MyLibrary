@@ -86,6 +86,7 @@
 | [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 | [Exploring Ray Traced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf) | Shyshkovtsov, Karmalsky, Archard, Zhdan | GDC 2019 |
 | [Fast Non-uniform Radiance Probe Placement and Tracing](http://cim.mcgill.ca/~derek/files/NonUniformProbes-paper.pdf) | Wang et. al. | i3D 2019 |
+| [Improved Geometric Specular Antialiasing](http://www.jp.square-enix.com/tech/library/pdf/ImprovedGeometricSpecularAA.pdf) | Yusuke Tokuyoshi, Anton Kaplanyan | i3D 2019 |
 | [Checkerboard rendering in Dark Souls: Remastered](https://youtu.be/2rq_Ky6B_5g) | Pursche, Vennstrom | DD 2019 |
 | [On Histogram-preserving Blending for Randomized Texture Tiling](http://www.jcgt.org/published/0008/04/02/paper.pdf) | Brent Burley | JCGT 2019 |
 | [Real-Time Path Tracing and Denoising in Quake II](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s91046-real-time-path-tracing-and-denoising-in-quake-2.pdf) | Christoph Schied, Alexey Panteleev | GTC 2019 |
