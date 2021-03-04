@@ -79,6 +79,7 @@
 | [Real-time Global Illumination by Precomputed Local Reconstruction from Sparse Radiance Probes](https://arisilvennoinen.github.io/Publications/Real-time_Global_Illumination_by_Precomputed_Local_Reconstruction_from_Sparse_Radiance_Probes.pdf) | Ari Silvennoinen, Jaakko Lehtinen | SIGGRAPH Asia 2017 |
 | [Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination](https://research.nvidia.com/publication/2017-07_Spatiotemporal-Variance-Guided-Filtering%3A) | Schied et al. | HPG 2017 |
 | [Combining Analytic Direct Illumination and Stochastic Shadows](https://hal.archives-ouvertes.fr/hal-01761558/document) + [Slides](https://hal.archives-ouvertes.fr/hal-01761558/file/heitzI3D2018_slides.pdf) | E. Heitz, S. Hill, M. McGuire | i3D 2018 |
+| [Progressive Multi-Jittered Sample Sequences](https://graphics.pixar.com/library/ProgressiveMultiJitteredSampling/paper.pdf) | Per Christensen, Andrew Kensler, Charlie Kilpatrick | Eurographics 2018 |
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
 | [A Life of a Bokeh](https://advances.realtimerendering.com/s2018/2018-08-13-SIGGRAPH-A-Life-of-a-Bokeh.pptx) | Guillaume Abadie | SIGGRAPH 2018 |
 | [Sampling the GGX Distribution of Visible Normals](http://jcgt.org/published/0007/04/01/) | Eric Heitz | JCGT 2018 |
