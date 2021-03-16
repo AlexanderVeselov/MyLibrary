@@ -77,6 +77,7 @@
 | [Rendering of Call of Duty Infinite Warfare](https://www.activision.com/cdn/research/2017_DD_Rendering_of_COD_IW.pdf) | Michal Drobot | Digital Dragons 2017 |
 | [Precomputed Lighting in Call of Duty Infinite Warfare](https://www.ppsloan.org/publications/CoD_IW.pptx) | Michał Iwanicki, Peter-Pike Sloan | SIGGRAPH 2017 |
 | [Real-time Global Illumination by Precomputed Local Reconstruction from Sparse Radiance Probes](https://arisilvennoinen.github.io/Publications/Real-time_Global_Illumination_by_Precomputed_Local_Reconstruction_from_Sparse_Radiance_Probes.pdf) | Ari Silvennoinen, Jaakko Lehtinen | SIGGRAPH Asia 2017 |
+| [Deep Scattering: Rendering Atmospheric Clouds with Radiance-Predicting Neural Networks](https://tom94.net/data/publications/kallweit17deep/kallweit17deep.pdf) | Simon Kallweit, Thomas Müller, Brian McWilliams, Markus Gross, Jan Novák | SIGGRAPH Asia 2017 |
 | [Spatiotemporal Variance-Guided Filtering: Real-Time Reconstruction for Path-Traced Global Illumination](https://research.nvidia.com/publication/2017-07_Spatiotemporal-Variance-Guided-Filtering%3A) | Schied et al. | HPG 2017 |
 | [Combining Analytic Direct Illumination and Stochastic Shadows](https://hal.archives-ouvertes.fr/hal-01761558/document) + [Slides](https://hal.archives-ouvertes.fr/hal-01761558/file/heitzI3D2018_slides.pdf) | E. Heitz, S. Hill, M. McGuire | i3D 2018 |
 | [Progressive Multi-Jittered Sample Sequences](https://graphics.pixar.com/library/ProgressiveMultiJitteredSampling/paper.pdf) | Per Christensen, Andrew Kensler, Charlie Kilpatrick | Eurographics 2018 |
@@ -94,6 +95,8 @@
 | [Real-Time Path Tracing and Denoising in Quake II](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s91046-real-time-path-tracing-and-denoising-in-quake-2.pdf) | Christoph Schied, Alexey Panteleev | GTC 2019 |
 | [Stochastic Lightcuts](http://www.cemyuksel.com/research/stochasticlightcuts/) | Cem Yuksel | HPG 2019 |
 | [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://perso.liris.cnrs.fr/david.coeurjolly/publications/heitz19.html) | Eric Heitz et al. | SIGGRAPH 2019 |
+| [Neural Importance Sampling](https://tom94.net/data/publications/mueller18neural/mueller18neural-v4.pdf) | Thomas Müller, Brian McWilliams, Fabrice Rousselle, Markus Gross, Jan Novák | SIGGRAPH 2019 |
+| [Path Guiding in Production](https://cgg.mff.cuni.cz/~jirka/path-guiding-in-production/2019/index.htm) | Jiří Vorba, Johannes Hanika, Sebastian Herholz, Thomas Müller, Jaroslav Křivánek, Alexander Keller | SIGGRAPH 2019 |
 | [Neural Temporal Adaptive Sampling and Denoising](https://research.nvidia.com/sites/default/files/pubs/2020-05_Neural-Temporal-Adaptive/NTASAD_preprint.pdf) | Hasselgren, Munkberg, Salvi, Patney, Lefohn | Eurographics 2020 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
 | [Stochastic Substitute Trees for Real-Time Global Illumination](https://www.markussteinberger.net/papers/SST.pdf) + [Code](https://github.com/wotatz/sst-demo) | Wolfgang Tatzgern, Benedikt Mayr, Bernhard Kerbl, Markus Steinberger | i3D 2020 |
