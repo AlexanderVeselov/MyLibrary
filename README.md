@@ -73,6 +73,8 @@
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
 | [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) | Eric Heitz et al. | SIGGRAPH 2016 |
 | [The devil is in the details:  idTech 666](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf) | Tiago Sousa, Jean Geffroy | SIGGRAPH 2016 |
+| [Real-Time Global Illumination Using Precomputed Illuminance Composition with Chrominance Compression
+](http://jcgt.org/published/0005/04/02/) + [Thesis](http://www.davidkuri.de/downloads/SIC-GI.pdf) | David Kuri, Johannes Jendersie, Thorsten Grosch | JCGT 2016 |
 | [Real-Time Global Illumination using Precomputed Light Field Probes](https://research.nvidia.com/sites/default/files/pubs/2017-02_Real-Time-Global-Illumination/light-field-probes-final.pdf) + [Slides](http://www.cim.mcgill.ca/~derek/files/McGuire2017LightField-I3DSlides.pdf) + [Thesis](http://www.melancholytree.com/thesis.pdf) | Morgan McGuire | i3D 2017 |
 | [Rendering of Call of Duty Infinite Warfare](https://www.activision.com/cdn/research/2017_DD_Rendering_of_COD_IW.pdf) | Michal Drobot | Digital Dragons 2017 |
 | [Precomputed Lighting in Call of Duty Infinite Warfare](https://www.ppsloan.org/publications/CoD_IW.pptx) | Michał Iwanicki, Peter-Pike Sloan | SIGGRAPH 2017 |
