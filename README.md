@@ -29,6 +29,7 @@
 | [Approximating Dynamic Global Illumination in Image Space (SSDO)](https://www.in.tu-clausthal.de/fileadmin/homes/CG/data_pub/paper/SSDO_i3D09.pdf) | T. Ritschel, T. Grosch H.P., Seidel | i3D 2009 |
 | [Image Space Gathering](https://research.nvidia.com/sites/default/files/pubs/2009-08_Image-Space-Gathering/HPG09-ISG.pdf?ncid=afm-chs-44270&ranMID=44270&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-Z7zs.eM2DDMLdR1VNbJwCg) | Austin Robison, Peter Shirley | HPG 2009 |
 | [Light Propagation Volumes in CryEngine 3](https://advances.realtimerendering.com/s2009/Light_Propagation_Volumes.pdf) + [Slides](https://advances.realtimerendering.com/s2009/Light_propagation_volumes.ppt) | Anton Kaplanyan | SIGGRAPH 2009|
+| [Stochastic Progressive Photon Mapping](http://graphics.ucsd.edu/~henrik/papers/sppm/) | Toshiya Hachisuka, Henrik Wann Jensen | SIGGRAPH Asia 2009 |
 | [Shading a Bigger, Better Sequel: Techniques in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/GDC10_ShaderTechniquesL4D2.pdf) | Bronwen Grimes | GDC 2010 |
 | [Rendering Wounds in Left 4 Dead 2](https://steamcdn-a.akamaihd.net/apps/valve/2010/gdc2010_vlachos_l4d2wounds.pdf) | Alex Vlachos | GDC 2010 |
 | [Efficient Sparse Voxel Octrees](https://research.nvidia.com/publication/efficient-sparse-voxel-octrees) | Samuli Laine, Tero Karras | i3D 2010 |
