@@ -2,9 +2,10 @@
 - [ ] TODO: organize this in a better way
 
 ## Important resources
-[SIGGRAPH Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/)
-[SIGGRAPH Course: Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
-[GDC Vault](https://www.gdcvault.com/)
+
+- [SIGGRAPH Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/)
+- [SIGGRAPH Course: Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
+- [GDC Vault](https://www.gdcvault.com/)
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
