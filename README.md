@@ -1,6 +1,11 @@
 # MyLibrary
 - [ ] TODO: organize this in a better way
 
+## Important resources
+[SIGGRAPH Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/)
+[SIGGRAPH Course: Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
+[GDC Vault](https://www.gdcvault.com/)
+
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
@@ -102,6 +107,7 @@
 | [A Low-Discrepancy Sampler that Distributes Monte Carlo Errors as a Blue Noise in Screen Space](https://perso.liris.cnrs.fr/david.coeurjolly/publications/heitz19.html) | Eric Heitz et al. | SIGGRAPH 2019 |
 | [Neural Importance Sampling](https://tom94.net/data/publications/mueller18neural/mueller18neural-v4.pdf) | Thomas Müller, Brian McWilliams, Fabrice Rousselle, Markus Gross, Jan Novák | SIGGRAPH 2019 |
 | [Path Guiding in Production](https://cgg.mff.cuni.cz/~jirka/path-guiding-in-production/2019/index.htm) | Jiří Vorba, Johannes Hanika, Sebastian Herholz, Thomas Müller, Jaroslav Křivánek, Alexander Keller | SIGGRAPH 2019 |
+| [Hierarchical Russian Roulette for Vertex Connections](https://yusuketokuyoshi.com/papers/2019/Hierarchical_Russian_Roulette_for_Vertex_Connections.pdf) | Yusuke Tokuyoshi, Takahiro Harada | SIGGRAPH 2019 |
 | [Neural Temporal Adaptive Sampling and Denoising](https://research.nvidia.com/sites/default/files/pubs/2020-05_Neural-Temporal-Adaptive/NTASAD_preprint.pdf) | Hasselgren, Munkberg, Salvi, Patney, Lefohn | Eurographics 2020 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
 | [Stochastic Substitute Trees for Real-Time Global Illumination](https://www.markussteinberger.net/papers/SST.pdf) + [Code](https://github.com/wotatz/sst-demo) | Wolfgang Tatzgern, Benedikt Mayr, Bernhard Kerbl, Markus Steinberger | i3D 2020 |
@@ -114,6 +120,7 @@
 | [Practical Product Sampling by Fitting and Composing Warps](http://casual-effects.com/research/Hart2020Sampling/index.html) | Hart et al. | SIGGRAPH 2020 |
 | [Introduction to the Vulkan Computer Graphics API](http://web.engr.oregonstate.edu/~mjb/vulkan/Handouts/FULL.1pp.pdf) | Mike Bailey | SIGGRAPH 2020 |
 | [Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints](http://rgl.epfl.ch/publications/Zeltner2020Specular) | Tizian Zeltner, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2020 |
+| [Some Thoughts on the Fresnel Term](https://blog.selfshadow.com/publications/s2020-shading-course/hoffman/s2020_pbs_hoffman_slides.pdf) | Naty Hoffman | SIGGRAPH 2020 |
 | [Continuous Multiple Importance Sampling](http://iliyan.com/publications/ContinuousMIS/ContinuousMIS_Sig2020.pdf) | Rex West, Iliyan Georgiev, Adrien Gruson, Toshiya Hachisuka | SIGGRAPH 2020 |
 | [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547.pdf) | Jacopo Pantaleoni | ArXiv 2020 |
 | [Surface Gradient–Based Bump Mapping Framework](http://jcgt.org/published/0009/03/04/) | Morten S. Mikkelsen | JCGT 2020 |
