@@ -6,6 +6,7 @@
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
 | [Bi-Directional Path Tracing](https://www.cs.princeton.edu/courses/archive/fall03/cs526/papers/lafortune93.pdf) | Eric P. Lafortune, Yves D. Willems | Compugraphics 1993 |
 | [Radiosity and Realistic Image Synthesis](https://pdfs.semanticscholar.org/b292/90e5c40396b40171f2bbed6ed29843be6e31.pdf) | Michael F. Cohen | Book, 1993 |
+| [The Irradiance Volume](http://www.sci.utah.edu/~bigler/images/msthesis/The%20irradiance%20volume.pdf) + [Full thesis](http://www.gene.greger-weltin.org/professional/publications/thesis.pdf) | Gene Greger, Peter Shirley, Philip M. Hubbard, Donald P. Greenberg | 1996 |
 | [Instant Radiosity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.2213&rep=rep1&type=pdf) + [Slides](http://www.cs.cornell.edu/courses/cs6630/2012sp/slides/Boyadzhiev-Matzen-InstantRadiosity.pdf) | Alexander Keller | SIGGRAPH 1997 |
 | [Robust monte carlo methods for light transport simulation](http://cseweb.ucsd.edu/~viscomp/classes/cse274/wi18/readings/veach_thesis.pdf) | Eric Veach | 1997 |
 | [Metropolis Light Transport](http://graphics.stanford.edu/papers/metro/) | Eric Veach, Leonidas J. Guibas | SIGGRAPH 1997 |
