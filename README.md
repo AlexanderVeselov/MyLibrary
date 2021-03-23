@@ -6,6 +6,7 @@
 - [SIGGRAPH Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/)
 - [SIGGRAPH Course: Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
 - [GDC Vault](https://www.gdcvault.com/)
+- [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
