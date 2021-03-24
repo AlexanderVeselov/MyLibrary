@@ -60,15 +60,16 @@
 | [Lighting Technology of "The Last of Us"](http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf) | Michał Iwanicki | SIGGRAPH 2013 |
 | [Axis-Aligned Filtering for Interactive Physically-Based Diffuse Indirect Lighting](http://graphics.berkeley.edu/papers/Udaymehta-IPB-2013-07/Udaymehta-IPB-2013-07.pdf) | Mehta et al. | SIGGRAPH 2013 |
 | [Real Shading in Unreal Engine 4](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf) | Brian Karis | SIGGRAPH 2013 |
-| [Specular BRDF Reference](http://graphicrants.blogspot.com/2013/08/specular-brdf-reference.html) | Brian Karis | Site, 2013 |
-| [Tone Mapping](http://graphicrants.blogspot.com/2013/12/tone-mapping.html) | Brian Karis | Site, 2013 |
+| [Crafting a Next-Gen Material Pipeline for The Order: 1886](https://blog.selfshadow.com/publications/s2013-shading-course/rad/s2013_pbs_rad_notes.pdf) + [Slides](https://blog.selfshadow.com/publications/s2013-shading-course/rad/s2013_pbs_rad_slides.pdf) | David Neubelt, Matt Pettineo| SIGGRAPH 2013 |
+| [Getting More Physical in Call of Duty: Black Ops II](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_notes.pdf) + [Slides](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf) | Dimitar Lazarov | SIGGRAPH 2013 |
 | [CRYENGINE 3 Graphics Gems](http://advances.realtimerendering.com/s2013/Sousa_Graphics_Gems_CryENGINE3.pptx) | Tiago Sousa | SIGGRAPH 2013 |
 | [Playing with Real-Time Shadows (CRYENGINE 3)](https://www.realtimeshadows.com/sites/default/files/Playing%20with%20Real-Time%20Shadows_0.pdf) | Nikolas Kasyan | SIGGRAPH 2013 |
+| [Specular BRDF Reference](http://graphicrants.blogspot.com/2013/08/specular-brdf-reference.html) | Brian Karis | Site, 2013 |
+| [Tone Mapping](http://graphicrants.blogspot.com/2013/12/tone-mapping.html) | Brian Karis | Site, 2013 |
+| [Lighting Killzone: Shadow Fall](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/Drobot_Lighting_of_Killzone_Shadow_Fall.pdf) | Michal Drobot | Digital Dragons 2013 |
+| [Line-Sweep Ambient Obscurance](http://wili.cc/research/lsao/) | Ville Timonen | ESGR 2013 |
 | [In-Game and Cinematic Lighting of The Last of Us](https://www.gdcvault.com/play/1020475/In-Game-and-Cinematic-Lighting) | Vivian Ding | GDC 2014 |
 | [Efficient GPU Screen-Space Ray Tracing](http://jcgt.org/published/0003/04/04/paper-lowres.pdf) | Morgan McGuire, Michael Mara | JCGT 2014 | 
-| [Lighting Killzone: Shadow Fall](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/Drobot_Lighting_of_Killzone_Shadow_Fall.pdf) | Michal Drobot | Digital Dragons 2013 |
-| [Getting More Physical in Call of Duty: Black Ops II](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf) | Dimitar Lazarov | SIGGRAPH 2013 |
-| [Line-Sweep Ambient Obscurance](http://wili.cc/research/lsao/) | Ville Timonen | ESGR 2013 |
 | [Taking Killzone Shadow Fall Image Quality Into The Next Generation](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/GDC2014_Valient_Killzone_Graphics.pdf) | Michal Valient | GDC 2014 |
 | [Next Generation Post Processing in Call of Duty: Advanced Warfare](http://advances.realtimerendering.com/s2014/#_NEXT_GENERATION_POST) | Jorge Jimenez | SIGGRAPH 2014 |
 | [High-Quality Temporal Supersampling](http://advances.realtimerendering.com/s2014/#_HIGH-QUALITY_TEMPORAL_SUPERSAMPLING) | Brian Karis | SIGGRAPH 2014 |
