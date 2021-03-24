@@ -56,6 +56,7 @@
 | [Axis-Aligned Filtering for Interactive Sampled Soft Shadows](http://graphics.berkeley.edu/papers/UdayMehta-AAF-2012-12/UdayMehta-AAF-2012-12.pdf) | Mehta et al. | SIGGRAPH 2012 |
 | [Real-Time Bidirectional Path Tracing via Rasterization](https://yusuketokuyoshi.com/papers/2012/Real-Time%20Bidirectional%20Path%20Tracing%20via%20Rasterization%20(preprint).pdf) | Yusuke Tokuyoshi, Shinji Ogaki | SIGGRAPH 2012 |
 | [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf) + [Slides](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_slides_v2.pdf)| Brent Burley | SIGGRAPH 2012 |
+| [Manifold Exploration: A Markov Chain Monte Carlo Technique for Rendering Scenes with Difficult Specular Transport](http://rgl.epfl.ch/publications/Jakob2012Manifold) | Wenzel Jakob, Steve Marschner | SIGGRAPH 2012 |
 | [Lighting Technology of "The Last of Us"](http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf) | Michał Iwanicki | SIGGRAPH 2013 |
 | [Axis-Aligned Filtering for Interactive Physically-Based Diffuse Indirect Lighting](http://graphics.berkeley.edu/papers/Udaymehta-IPB-2013-07/Udaymehta-IPB-2013-07.pdf) | Mehta et al. | SIGGRAPH 2013 |
 | [Real Shading in Unreal Engine 4](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf) | Brian Karis | SIGGRAPH 2013 |
