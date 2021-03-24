@@ -80,6 +80,7 @@
 | [Landscape creation and rendering in REDengine 3](https://twvideo01.ubm-us.net/o1/vault/GDC2014/Presentations/Gollent_Marcin_Landscape_Creation_and.pdf) | Marcin Gollent | SIGGRAPH 2015 |
 | [The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn](https://www.guerrilla-games.com/read/the-real-time-volumetric-cloudscapes-of-horizon-zero-dawn) | Andrew Schneider | SIGGRAPH 2015 |
 | [Dynamic Occlusion with Signed Distance Fields](http://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf) | Daniel Wright | SIGGRAPH 2015 |
+| [Advanced Lighting R&D at Ready At Dawn Studios](https://blog.selfshadow.com/publications/s2015-shading-course/rad/s2015_pbs_rad_slides.pdf) | David Neubelt, Matt Pettineo | SIGGRAPH 2015 |
 | [Horizon Occlusion for Normal Mapped Reflections](https://marmosetco.tumblr.com/post/81245981087) | Jeff Russell | 2015 |
 | [Specular Lobe-Aware Filtering and Upsampling for Interactive Indirect Illumination](http://www.jp.square-enix.com/tech/library/pdf/Specular%20Lobe-Aware%20Filtering%20and%20Upsampling%20for%20Interactive%20Indirect%20Illumination.pdf) | Y. Tokuyoshi | 2015 |
 | [Global Illumination in Tom Clancy’s The Division](http://mrakobes.com/Nikolay.Stefanov.GDC.2016.pdf) | Nikolay Stefanov | GDC 2016 |
