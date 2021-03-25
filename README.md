@@ -106,6 +106,7 @@
 | [Screen Space Cone Tracing for Glossy Reflections](https://lukas-hermanns.info/download/bachelorthesis_ssct_lhermanns.pdf) | Lukas Hermanns | Thesis, 2018 |
 | [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 | [Exploring Ray Traced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf) | Shyshkovtsov, Karmalsky, Archard, Zhdan | GDC 2019 |
+| [It Just Works: Ray-Traced Reflections in ‘Battlefield V’](https://developer.nvidia.com/gtc/2019/video/s91023) + [Slides](https://www.gdcvault.com/play/1026282/It-Just-Works-Ray-Traced) | Johannes Deligiannis, Jan Schmid | GDC 2019 |
 | [Fast Non-uniform Radiance Probe Placement and Tracing](http://cim.mcgill.ca/~derek/files/NonUniformProbes-paper.pdf) | Wang et. al. | i3D 2019 |
 | [Improved Geometric Specular Antialiasing](http://www.jp.square-enix.com/tech/library/pdf/ImprovedGeometricSpecularAA.pdf) | Yusuke Tokuyoshi, Anton Kaplanyan | i3D 2019 |
 | [Checkerboard rendering in Dark Souls: Remastered](https://youtu.be/2rq_Ky6B_5g) | Pursche, Vennstrom | DD 2019 |
