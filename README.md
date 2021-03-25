@@ -103,6 +103,7 @@
 | [Deferred Adaptive Compute Shading](https://geometrian.com/data/research/dacs/dacs-hpg2018-pres.pdf) | Ian Mallett, Cem Yuksel | HPG 2018 |
 | [Gradient Estimation for Real-Time Adaptive Temporal Filtering](http://cg.ivd.kit.edu/atf.php) | Christoph Schied, Christoph Peters, Carsten Dachsbacher | PACMCGIT 2018 |
 | [Horizon-Based Indirect Lighting](https://drive.google.com/file/d/1fmceYuM5J2s8puNHZ9o4OF3YjqzIvmRR/view) + [Code](https://github.com/Patapom/GodComplex/tree/master/Tests/TestHBIL) | Benoît “Patapom” Mayaux | Site, 2018 |
+| [Screen Space Cone Tracing for Glossy Reflections](https://lukas-hermanns.info/download/bachelorthesis_ssct_lhermanns.pdf) | Lukas Hermanns | Thesis, 2018 |
 | [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 | [Exploring Ray Traced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf) | Shyshkovtsov, Karmalsky, Archard, Zhdan | GDC 2019 |
 | [Fast Non-uniform Radiance Probe Placement and Tracing](http://cim.mcgill.ca/~derek/files/NonUniformProbes-paper.pdf) | Wang et. al. | i3D 2019 |
