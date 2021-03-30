@@ -10,6 +10,7 @@
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
+| [Illumination for computer generated pictures](https://users.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf) + [Full Dissertation](https://apps.dtic.mil/dtic/tr/fulltext/u2/a008786.pdf) | Bui Tuong Phong | 1975 |
 | [A Reflectance Model for Computer Graphics](https://inst.eecs.berkeley.edu/~cs294-13/fa09/lectures/cookpaper.pdf) | Robert L. Cook, Kenneth E. Torrance | SIGGRAPH 1981 |
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
 | [Bi-Directional Path Tracing](https://www.cs.princeton.edu/courses/archive/fall03/cs526/papers/lafortune93.pdf) | Eric P. Lafortune, Yves D. Willems | Compugraphics 1993 |
