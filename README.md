@@ -10,6 +10,7 @@
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
+| [A Reflectance Model for Computer Graphics](https://inst.eecs.berkeley.edu/~cs294-13/fa09/lectures/cookpaper.pdf) | Robert L. Cook, Kenneth E. Torrance | SIGGRAPH 1981 |
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
 | [Bi-Directional Path Tracing](https://www.cs.princeton.edu/courses/archive/fall03/cs526/papers/lafortune93.pdf) | Eric P. Lafortune, Yves D. Willems | Compugraphics 1993 |
 | [Radiosity and Realistic Image Synthesis](https://pdfs.semanticscholar.org/b292/90e5c40396b40171f2bbed6ed29843be6e31.pdf) | Michael F. Cohen | Book, 1993 |
