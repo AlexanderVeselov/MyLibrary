@@ -136,6 +136,7 @@
 | [Some Thoughts on the Fresnel Term](https://blog.selfshadow.com/publications/s2020-shading-course/hoffman/s2020_pbs_hoffman_slides.pdf) | Naty Hoffman | SIGGRAPH 2020 |
 | [Continuous Multiple Importance Sampling](http://iliyan.com/publications/ContinuousMIS/ContinuousMIS_Sig2020.pdf) | Rex West, Iliyan Georgiev, Adrien Gruson, Toshiya Hachisuka | SIGGRAPH 2020 |
 | [Online path sampling control with progressive spatio-temporal filtering](https://arxiv.org/pdf/2005.07547.pdf) | Jacopo Pantaleoni | ArXiv 2020 |
+| [Progressive Least-Squares Encoding for Linear Bases](http://www.jcgt.org/published/0009/01/02/) | Thomas Roughton | JCGT 2020 |
 | [Surface Gradient–Based Bump Mapping Framework](http://jcgt.org/published/0009/03/04/) | Morten S. Mikkelsen | JCGT 2020 |
 | [Raytraced Shadows in Call of Duty: Modern Warfare](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf) | Michal Olejnik, Pawel Kozlowski | DD 2020 |
 | [Creating EA's Next Generation Hair Technology](https://youtu.be/HPgWKev7B3g) | Jon Valdes, Robin Taillandier | DD 2020 |
