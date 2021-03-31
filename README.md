@@ -67,6 +67,7 @@
 | [Getting More Physical in Call of Duty: Black Ops II](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_notes.pdf) + [Slides](https://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_slides_v2.pdf) | Dimitar Lazarov | SIGGRAPH 2013 |
 | [CRYENGINE 3 Graphics Gems](http://advances.realtimerendering.com/s2013/Sousa_Graphics_Gems_CryENGINE3.pptx) | Tiago Sousa | SIGGRAPH 2013 |
 | [Playing with Real-Time Shadows (CRYENGINE 3)](https://www.realtimeshadows.com/sites/default/files/Playing%20with%20Real-Time%20Shadows_0.pdf) | Nikolas Kasyan | SIGGRAPH 2013 |
+| [The Visibility Buffer: A Cache-Friendly Approach to Deferred Shading](http://www.jcgt.org/published/0002/02/04/) | Christopher A. Burns, Warren A. Hunt | JCGT 2013 |
 | [Specular BRDF Reference](http://graphicrants.blogspot.com/2013/08/specular-brdf-reference.html) | Brian Karis | Site, 2013 |
 | [Tone Mapping](http://graphicrants.blogspot.com/2013/12/tone-mapping.html) | Brian Karis | Site, 2013 |
 | [Lighting Killzone: Shadow Fall](https://d1z4o56rleaq4j.cloudfront.net/downloads/assets/Drobot_Lighting_of_Killzone_Shadow_Fall.pdf) | Michal Drobot | Digital Dragons 2013 |
@@ -85,7 +86,8 @@
 | [Dynamic Occlusion with Signed Distance Fields](http://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf) | Daniel Wright | SIGGRAPH 2015 |
 | [Advanced Lighting R&D at Ready At Dawn Studios](https://blog.selfshadow.com/publications/s2015-shading-course/rad/s2015_pbs_rad_slides.pdf) | David Neubelt, Matt Pettineo | SIGGRAPH 2015 |
 | [Horizon Occlusion for Normal Mapped Reflections](https://marmosetco.tumblr.com/post/81245981087) | Jeff Russell | 2015 |
-| [Specular Lobe-Aware Filtering and Upsampling for Interactive Indirect Illumination](http://www.jp.square-enix.com/tech/library/pdf/Specular%20Lobe-Aware%20Filtering%20and%20Upsampling%20for%20Interactive%20Indirect%20Illumination.pdf) | Y. Tokuyoshi | 2015 |
+| [Specular Lobe-Aware Filtering and Upsampling for Interactive Indirect Illumination](http://www.jp.square-enix.com/tech/library/pdf/Specular%20Lobe-Aware%20Filtering%20and%20Upsampling%20for%20Interactive%20Indirect%20Illumination.pdf) | Yusuke Tokuyoshi | 2015 |
+| [Stochastic Light Culling](http://www.jcgt.org/published/0005/01/02/) | Yusuke Tokuyoshi, Takahiro Harada | JCGT 2015 |
 | [Global Illumination in Tom Clancy’s The Division](http://mrakobes.com/Nikolay.Stefanov.GDC.2016.pdf) | Nikolay Stefanov | GDC 2016 |
 | [Volumetric Global Illumination At Treyarch](https://www.activision.com/cdn/research/Volumetric_Global_Illumination_at_Treyarch.pdf) | JT Hooker | SIGGRAPH 2016 |
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
