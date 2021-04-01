@@ -145,4 +145,5 @@
 | [Perceptual Error Optimization for Monte Carlo Rendering](https://arxiv.org/pdf/2012.02344.pdf) | Vassillen Chizhov, Iliyan Georgiev, Karol Myszkowski, Gurprit Singh | ArXiv 2020 |
 | [Ray-Traced Glossy Reflections Using Screen-Space Roughness](https://www.nvidia.com/en-us/on-demand/session/gtcfall20-a21792/) | Peter Kristof | GTC 2020 |
 | [Neural Control Variates](https://tom94.net/data/publications/mueller20neural/mueller20neural.pdf) | Thomas Müller, Fabrice Rousselle, Alexander Keller, Jan Novák | SIGGRAPH Asia 2020 |
+| [NeRF: Neural Radiance Fields](https://www.matthewtancik.com/nerf) | Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng | ECCV 2020 |
 | [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) | Jakub Boksansky | 2021 |
