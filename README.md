@@ -87,7 +87,7 @@
 | [Advanced Lighting R&D at Ready At Dawn Studios](https://blog.selfshadow.com/publications/s2015-shading-course/rad/s2015_pbs_rad_slides.pdf) | David Neubelt, Matt Pettineo | SIGGRAPH 2015 |
 | [Horizon Occlusion for Normal Mapped Reflections](https://marmosetco.tumblr.com/post/81245981087) | Jeff Russell | 2015 |
 | [Specular Lobe-Aware Filtering and Upsampling for Interactive Indirect Illumination](http://www.jp.square-enix.com/tech/library/pdf/Specular%20Lobe-Aware%20Filtering%20and%20Upsampling%20for%20Interactive%20Indirect%20Illumination.pdf) | Yusuke Tokuyoshi | 2015 |
-| [Stochastic Light Culling](http://www.jcgt.org/published/0005/01/02/) | Yusuke Tokuyoshi, Takahiro Harada | JCGT 2015 |
+| [Stochastic Light Culling](http://www.jcgt.org/published/0005/01/02/) + [Slides](https://yusuketokuyoshi.com/papers/2016/StochasticLightCulling_I3D2017.pdf) | Yusuke Tokuyoshi, Takahiro Harada | JCGT 2016 |
 | [Global Illumination in Tom Clancy’s The Division](http://mrakobes.com/Nikolay.Stefanov.GDC.2016.pdf) | Nikolay Stefanov | GDC 2016 |
 | [Volumetric Global Illumination At Treyarch](https://www.activision.com/cdn/research/Volumetric_Global_Illumination_at_Treyarch.pdf) | JT Hooker | SIGGRAPH 2016 |
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
