@@ -7,6 +7,7 @@
 - [SIGGRAPH Course: Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
 - [GDC Vault](https://www.gdcvault.com/)
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
+- [KIT Computer Graphics Group research page](https://cg.ivd.kit.edu/english/publikationen.php)
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
