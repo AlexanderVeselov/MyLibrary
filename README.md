@@ -127,8 +127,9 @@
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
 | [Stochastic Substitute Trees for Real-Time Global Illumination](https://www.markussteinberger.net/papers/SST.pdf) + [Code](https://github.com/wotatz/sst-demo) | Wolfgang Tatzgern, Benedikt Mayr, Bernhard Kerbl, Markus Steinberger | i3D 2020 |
 | [Real-Time Stochastic Lightcuts](https://dqlin.xyz/pubs/2020-i3d-SLC/) | Daqi Lin, Cem Yuksel | i3D 2020 |
-| [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf) | Lei Yang, Shiqiu Liu, Marco Salvi | Eurographics 2020 |
+| [A Survey of Temporal Antialiasing Techniques](http://behindthepixels.io/assets/files/TemporalAA.pdf) | Lei Yang, Shiqiu Liu, Marco Salvi | ESGR 2020 |
 | [Can’t Invert the CDF? The Triangle-Cut Parameterization of the Region under the Curve](https://eheitzresearch.wordpress.com/792-2/) | Eric Heitz | EGSR 2020 |
+| [Temporal Sample Reuse for Next Event Estimation and Path Guiding for Real-Time Path Tracing](https://cg.ivd.kit.edu/english/tsr_nee_pg_rtpt.php) | Addis Dittebrandt, Johannes Hanika, Carsten Dachsbacher | ESGR 2020 |
 | [The design and evolution of the UberBake light baking system](https://darioseyb.com/pdf/seyb20uberbake.pdf) | Seyb, Sloan, Silvennoinen, Iwanicki, Jarosz | SIGGRAPH 2020 |
 | [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://developer.download.nvidia.com/devblogs/ReSTIR.pdf) | Bitterli et al. | SIGGRAPH 2020 |
 | [Advances in Monte Carlo Rendering: The Legacy of Jaroslav Krivanek](http://www.iliyan.com/publications/Siggraph2020Course/Siggraph2020Course_Notes.pdf) | Keller et al. | SIGGRAPH 2020 |
