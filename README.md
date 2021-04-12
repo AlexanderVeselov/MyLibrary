@@ -127,6 +127,8 @@
 | [Neural Importance Sampling](https://tom94.net/data/publications/mueller18neural/mueller18neural-v4.pdf) | Thomas Müller, Brian McWilliams, Fabrice Rousselle, Markus Gross, Jan Novák | SIGGRAPH 2019 |
 | [Path Guiding in Production](https://cgg.mff.cuni.cz/~jirka/path-guiding-in-production/2019/index.htm) | Jiří Vorba, Johannes Hanika, Sebastian Herholz, Thomas Müller, Jaroslav Křivánek, Alexander Keller | SIGGRAPH 2019 |
 | [Hierarchical Russian Roulette for Vertex Connections](https://yusuketokuyoshi.com/papers/2019/Hierarchical_Russian_Roulette_for_Vertex_Connections.pdf) | Yusuke Tokuyoshi, Takahiro Harada | SIGGRAPH 2019 |
+| [Reparameterizing discontinuous integrands for differentiable rendering](https://rgl.epfl.ch/publications/Loubet2019Reparameterizing) | Guillaume Loubet, Nicolas Holzschuch, Wenzel Jakob | SIGGRAPH Asia 2019 |
+| [Mitsuba 2: A Retargetable Forward and Inverse Renderer](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) | Merlin Nimier-David, Delio Vicini, Tizian Zeltner, Wenzel Jakob | SIGGRAPH Asia 2019 |
 | [Neural Temporal Adaptive Sampling and Denoising](https://research.nvidia.com/sites/default/files/pubs/2020-05_Neural-Temporal-Adaptive/NTASAD_preprint.pdf) | Hasselgren, Munkberg, Salvi, Patney, Lefohn | Eurographics 2020 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
 | [Stochastic Substitute Trees for Real-Time Global Illumination](https://www.markussteinberger.net/papers/SST.pdf) + [Code](https://github.com/wotatz/sst-demo) | Wolfgang Tatzgern, Benedikt Mayr, Bernhard Kerbl, Markus Steinberger | i3D 2020 |
