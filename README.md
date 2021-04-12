@@ -26,6 +26,7 @@
 | [Half-Life 2 / Valve Source Shading](https://steamcdn-a.akamaihd.net/apps/valve/2004/GDC2004_Half-Life2_Shading.pdf) | Gary McTaggart | GDC 2004 |
 | [Irradiance Volumes for Games](https://developer.amd.com/wordpress/media/2012/10/Tatarchuk_Irradiance_Volumes.pdf) | N. Tatarchuk | GDC Europe 2005 |
 | [Precomputed Radiance Transfer: Theory and Practice](http://www0.cs.ucl.ac.uk/staff/j.kautz/PRTCourse/) | J. Kautz, J. Lehtinen, Peter-Pike Sloan | SIGGRAPH 2005 |
+| [Energy Redistribution Path Tracing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.5938&rep=rep1&type=pdf) + [Video talk](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F1073204.1073330&file=pps094.mp4) | David Cline, Justin Talbot, Parris Egbert | SIGGRAPH 2005 |
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1662&context=etd) | Justin Talbot | EGS 2005 |
 | [HDR in Valve’s Source Engine ](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_HDRInValvesSourceEngine_Slides.pdf) | Gary McTaggart | SIGGRAPH 2006 |
 | [Shading in Valve’s Source Engine](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine.pdf) + [Slides](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine_Slides.pdf) | Jason Mitchell, Gary McTaggart, Chris Green | SIGGRAPH 2006 |
@@ -52,6 +53,7 @@
 | [A Real-Time Radiosity Architecture for Video Game](https://advances.realtimerendering.com/s2010/Martin-Einarsson-RadiosityArchitecture(SIGGRAPH%202010%20Advanced%20RealTime%20Rendering%20Course).pdf) | Sam Martin, Per Einarsson | SIGGRAPH 2010 |
 | [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf) | Takahiro Harada, Lee Howes | 2011 |
 | [VoxelPipe: A Programmable Pipeline for 3D Voxelization](https://research.nvidia.com/publication/voxelpipe-programmable-pipeline-3d-voxelization) | Jacopo Pantaleoni | HPG 2011 |
+| [Bidirectional light transport with vertex merging](http://iliyan.com/publications/VertexMergingSketch) | Iliyan Georgiev, Jaroslav Křivánek, Philipp Slusallek | SIGGRAPH Asia 2011 |
 | [Deferred Radiance Transfer Volumes: Global Illumination in Far Cry 3](https://www.gdcvault.com/play/1015326/Deferred-Radiance-Transfer-Volumes-Global) | Nikolay Stefanov | GDC 2012 |
 | [Stable SSAO in Battlefield 3 with Selective Temporal Filtering (Video)](https://www.gdcvault.com/play/1015538/Stable-SSAO-in-Battlefield-3) + [Slides](https://www.ea.com/frostbite/news/stable-ssao-in-battlefield-3-with-selective-temporal-filtering) | Louis Bavoil | GDC 2012 |
 | [Light Probe Interpolation Using Tetrahedral Tessellations](https://www.gdcvault.com/play/1015312/Light-Probe-Interpolation-Using-Tetrahedral) | Robert Cupisz | SIGGRAPH 2012 |
