@@ -153,5 +153,6 @@
 | [Ray-Traced Glossy Reflections Using Screen-Space Roughness](https://www.nvidia.com/en-us/on-demand/session/gtcfall20-a21792/) | Peter Kristof | GTC 2020 |
 | [Fast Denoising with Self Stabilizing Recurrent Blurs](https://developer.nvidia.com/gtc/2020/video/s22699) ([Slides](http://developer.download.nvidia.com/video/gputechconf/gtc/2020/presentations/s22699-fast-denoising-with-self-stabilizing-recurrent-blurs.pdf))| Dmitry Zhdan | GTC 2020 |
 | [Neural Control Variates](https://tom94.net/data/publications/mueller20neural/mueller20neural.pdf) | Thomas Müller, Fabrice Rousselle, Alexander Keller, Jan Novák | SIGGRAPH Asia 2020 |
+| [Glossy Probe Reprojection for Interactive Global Illumination](http://www-sop.inria.fr/reves/Basilic/2020/RLPWSD20/) | Simon Rodriguez, Thomas Leimkühler, Siddhant Prakash, Chris Wyman, Peter Shirley, George Drettakis | SIGGRAPH Asia 2020 |
 | [NeRF: Neural Radiance Fields](https://www.matthewtancik.com/nerf) | Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng | ECCV 2020 |
 | [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) | Jakub Boksansky | 2021 |
