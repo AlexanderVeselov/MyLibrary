@@ -158,3 +158,4 @@
 | [NeRF: Neural Radiance Fields](https://www.matthewtancik.com/nerf) | Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng | ECCV 2020 |
 | [High-Performance Image Filters via Sparse Approximations](https://www.graphics.rwth-aachen.de/publication/03312/) | Kersten Schuster, Philip Trettner, Leif Kobbelt | PACMGIT 2020 |
 | [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) | Jakub Boksansky | 2021 |
+| [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) | Daniel Meister, Shinji Ogaki, Carsten Benthin, Michael J. Doyle, Michael Guthe, Jiří Bittner | Eurographics 2021 |
