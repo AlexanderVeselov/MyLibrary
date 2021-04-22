@@ -156,4 +156,5 @@
 | [Neural Control Variates](https://tom94.net/data/publications/mueller20neural/mueller20neural.pdf) | Thomas Müller, Fabrice Rousselle, Alexander Keller, Jan Novák | SIGGRAPH Asia 2020 |
 | [Glossy Probe Reprojection for Interactive Global Illumination](http://www-sop.inria.fr/reves/Basilic/2020/RLPWSD20/) | Simon Rodriguez, Thomas Leimkühler, Siddhant Prakash, Chris Wyman, Peter Shirley, George Drettakis | SIGGRAPH Asia 2020 |
 | [NeRF: Neural Radiance Fields](https://www.matthewtancik.com/nerf) | Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng | ECCV 2020 |
+| [High-Performance Image Filters via Sparse Approximations](https://www.graphics.rwth-aachen.de/publication/03312/) | Kersten Schuster, Philip Trettner, Leif Kobbelt | PACMGIT 2020 |
 | [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) | Jakub Boksansky | 2021 |
