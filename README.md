@@ -13,7 +13,7 @@
 | ---------- | ------------- | ------------- |
 | [Illumination for computer generated pictures](https://users.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf) + [Full Dissertation](https://apps.dtic.mil/dtic/tr/fulltext/u2/a008786.pdf) | Bui Tuong Phong | 1975 |
 | [A Reflectance Model for Computer Graphics](https://inst.eecs.berkeley.edu/~cs294-13/fa09/lectures/cookpaper.pdf) | Robert L. Cook, Kenneth E. Torrance | SIGGRAPH 1981 |
-| [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | Journal of Parallel and Distributed Computing 67 |
+| [Modeling the Interaction of Light Between Diffuse Surfaces ](https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S12/papers/goral_radiosity_84.pdf) | Cindy M. Goral, Kenneth E. Torrance, Donald P. Greenberg, Bennett Battaile | SIGGRAPH 1984 |
 | [Bi-Directional Path Tracing](https://www.cs.princeton.edu/courses/archive/fall03/cs526/papers/lafortune93.pdf) | Eric P. Lafortune, Yves D. Willems | Compugraphics 1993 |
 | [Radiosity and Realistic Image Synthesis](https://pdfs.semanticscholar.org/b292/90e5c40396b40171f2bbed6ed29843be6e31.pdf) | Michael F. Cohen | Book, 1993 |
 | [The Irradiance Volume](http://www.sci.utah.edu/~bigler/images/msthesis/The%20irradiance%20volume.pdf) + [Full thesis](http://www.gene.greger-weltin.org/professional/publications/thesis.pdf) | Gene Greger, Peter Shirley, Philip M. Hubbard, Donald P. Greenberg | 1996 |
@@ -30,6 +30,7 @@
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1662&context=etd) | Justin Talbot | EGS 2005 |
 | [HDR in Valve’s Source Engine ](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_HDRInValvesSourceEngine_Slides.pdf) | Gary McTaggart | SIGGRAPH 2006 |
 | [Shading in Valve’s Source Engine](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine.pdf) + [Slides](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine_Slides.pdf) | Jason Mitchell, Gary McTaggart, Chris Green | SIGGRAPH 2006 |
+| [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | 2007 |
 | [Advanced Real-Time Rendering in 3D Graphics and Games (all papers)](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD1/content/courses/c28/c28.pdf) | Johan Andersson, Shannon Drone, Nico Galoppo, Chris Green, Chris Oat, Jason L. Mitchell, Martin Mittring, Natalya Tatarchuk | SIGGRAPH 2007 |
 | [Efficient Self-Shadowed Radiosity Normal Mapping](https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_EfficientSelfShadowedRadiosityNormalMapping.pdf) + [SIGGRAPH paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.406.4625&rep=rep1&type=pdf) | Chris Green | SIGGRAPH 2007 |
 | [Joint Bilateral Upsampling](https://johanneskopf.de/publications/jbu/paper/FinalPaper_0185.pdf) | Johannes Kopf, Michael F. Cohen, Dani Lischinski, Matt Uyttendaele | SIGGRAPH 2007 |
