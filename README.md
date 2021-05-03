@@ -58,12 +58,13 @@
 | [Deferred Radiance Transfer Volumes: Global Illumination in Far Cry 3](https://www.gdcvault.com/play/1015326/Deferred-Radiance-Transfer-Volumes-Global) | Nikolay Stefanov | GDC 2012 |
 | [Stable SSAO in Battlefield 3 with Selective Temporal Filtering (Video)](https://www.gdcvault.com/play/1015538/Stable-SSAO-in-Battlefield-3) + [Slides](https://www.ea.com/frostbite/news/stable-ssao-in-battlefield-3-with-selective-temporal-filtering) | Louis Bavoil | GDC 2012 |
 | [Light Probe Interpolation Using Tetrahedral Tessellations](https://www.gdcvault.com/play/1015312/Light-Probe-Interpolation-Using-Tetrahedral) | Robert Cupisz | SIGGRAPH 2012 |
-| [The Compact YCoCg Frame Buffer](http://jcgt.org/published/0001/01/02/paper.pdf) | Pavlos Mavridis, Georgios Papaioannou | JCGT 2012 |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
 | [Axis-Aligned Filtering for Interactive Sampled Soft Shadows](http://graphics.berkeley.edu/papers/UdayMehta-AAF-2012-12/UdayMehta-AAF-2012-12.pdf) | Mehta et al. | SIGGRAPH 2012 |
 | [Real-Time Bidirectional Path Tracing via Rasterization](https://yusuketokuyoshi.com/papers/2012/Real-Time%20Bidirectional%20Path%20Tracing%20via%20Rasterization%20(preprint).pdf) | Yusuke Tokuyoshi, Shinji Ogaki | SIGGRAPH 2012 |
 | [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf) + [Slides](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_slides_v2.pdf)| Brent Burley | SIGGRAPH 2012 |
 | [Manifold Exploration: A Markov Chain Monte Carlo Technique for Rendering Scenes with Difficult Specular Transport](http://rgl.epfl.ch/publications/Jakob2012Manifold) | Wenzel Jakob, Steve Marschner | SIGGRAPH 2012 |
+| [Local Image-based Lighting With Parallax-corrected Cubemap](https://seblagarde.wordpress.com/2012/11/28/siggraph-2012-talk/) | Sébastien Lagarde, Antoine Zanuttini | SIGGRAPH 2012 |
+| [The Compact YCoCg Frame Buffer](http://jcgt.org/published/0001/01/02/paper.pdf) | Pavlos Mavridis, Georgios Papaioannou | JCGT 2012 |
 | [Lighting Technology of "The Last of Us"](http://miciwan.com/SIGGRAPH2013/Lighting%20Technology%20of%20The%20Last%20Of%20Us.pdf) | Michał Iwanicki | SIGGRAPH 2013 |
 | [Axis-Aligned Filtering for Interactive Physically-Based Diffuse Indirect Lighting](http://graphics.berkeley.edu/papers/Udaymehta-IPB-2013-07/Udaymehta-IPB-2013-07.pdf) | Mehta et al. | SIGGRAPH 2013 |
 | [Real Shading in Unreal Engine 4](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf) | Brian Karis | SIGGRAPH 2013 |
@@ -160,3 +161,5 @@
 | [High-Performance Image Filters via Sparse Approximations](https://www.graphics.rwth-aachen.de/publication/03312/) | Kersten Schuster, Philip Trettner, Leif Kobbelt | PACMGIT 2020 |
 | [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) | Jakub Boksansky | 2021 |
 | [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) | Daniel Meister, Shinji Ogaki, Carsten Benthin, Michael J. Doyle, Michael Guthe, Jiří Bittner | Eurographics 2021 |
+| [Scaling Probe-Based Real-Time Dynamic Global Illumination for Production](http://www.jcgt.org/published/0010/02/01/) | Zander Majercik, Adam Marrs, Josef Spjut, Morgan McGuire | JCGT 2021 |
+| [Monte Carlo Estimators for Differential Light Transport](https://rgl.epfl.ch/publications/Zeltner2021MonteCarlo) | Tizian Zeltner, Sébastien Speierer, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2021 |
