@@ -116,12 +116,12 @@
 | [Horizon-Based Indirect Lighting](https://drive.google.com/file/d/1fmceYuM5J2s8puNHZ9o4OF3YjqzIvmRR/view) + [Code](https://github.com/Patapom/GodComplex/tree/master/Tests/TestHBIL) | Benoît “Patapom” Mayaux | Site, 2018 |
 | [Screen Space Cone Tracing for Glossy Reflections](https://lukas-hermanns.info/download/bachelorthesis_ssct_lhermanns.pdf) | Lukas Hermanns | Thesis, 2018 |
 | [Progressive Spatiotemporal Variance-Guided Filtering](https://cescg.org/wp-content/uploads/2018/04/Dundr-Progressive-Spatiotemporal-Variance-Guided-Filtering-2.pdf) | Jan Dundr | CESCG 2018 |
-| [Dynamic Diffuse Global Illumination With Ray-Traced Irradiance Fields](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9900-irradiance-fields-rtx-diffuse-global-illumination-for-local-and-cloud-graphics.pdf) | Morgan McGuire | GDC 2019 |
 | [Exploring Ray Traced Future in Metro Exodus](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9985-exploring-ray-traced-future-in-metro-exodus.pdf) | Shyshkovtsov, Karmalsky, Archard, Zhdan | GDC 2019 |
 | [It Just Works: Ray-Traced Reflections in ‘Battlefield V’](https://developer.nvidia.com/gtc/2019/video/s91023) + [Slides](https://www.gdcvault.com/play/1026282/It-Just-Works-Ray-Traced) | Johannes Deligiannis, Jan Schmid | GDC 2019 |
 | [Fast Non-uniform Radiance Probe Placement and Tracing](http://cim.mcgill.ca/~derek/files/NonUniformProbes-paper.pdf) | Wang et. al. | i3D 2019 |
 | [Improved Geometric Specular Antialiasing](http://www.jp.square-enix.com/tech/library/pdf/ImprovedGeometricSpecularAA.pdf) | Yusuke Tokuyoshi, Anton Kaplanyan | i3D 2019 |
 | [Checkerboard rendering in Dark Souls: Remastered](https://youtu.be/2rq_Ky6B_5g) | Pursche, Vennstrom | DD 2019 |
+| [Dynamic Diffuse Global Illumination with Ray-Traced Irradiance Fields](http://jcgt.org/published/0008/02/01/) | Zander Majercik, Jean-Philippe Guertin, Derek Nowrouzezahrai, Morgan McGuire | JCGT 2019 |
 | [On Histogram-preserving Blending for Randomized Texture Tiling](http://www.jcgt.org/published/0008/04/02/paper.pdf) | Brent Burley | JCGT 2019 |
 | [A Multiple-Scattering Microfacet Model for Real-Time Image Based Lighting](http://www.jcgt.org/published/0008/01/03/) | Carmelo J. Fdez-Agüera | JCGT 2019 |
 | [Real-Time Path Tracing and Denoising in Quake II](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s91046-real-time-path-tracing-and-denoising-in-quake-2.pdf) | Christoph Schied, Alexey Panteleev | GTC 2019 |
