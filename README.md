@@ -28,6 +28,7 @@
 | [Precomputed Radiance Transfer: Theory and Practice](http://www0.cs.ucl.ac.uk/staff/j.kautz/PRTCourse/) | J. Kautz, J. Lehtinen, Peter-Pike Sloan | SIGGRAPH 2005 |
 | [Energy Redistribution Path Tracing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.5938&rep=rep1&type=pdf) + [Video talk](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F1073204.1073330&file=pps094.mp4) | David Cline, Justin Talbot, Parris Egbert | SIGGRAPH 2005 |
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1662&context=etd) | Justin Talbot | EGS 2005 |
+| [Non-interleaved Deferred Shading of Interleaved Sample Patterns](https://liris.cnrs.fr/Documents/Liris-2476.pdf) | Benjamin Segovia, Jean-Claude Iehl, Bernard Péroche | Eurographics 2006 |
 | [HDR in Valve’s Source Engine ](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_HDRInValvesSourceEngine_Slides.pdf) | Gary McTaggart | SIGGRAPH 2006 |
 | [Shading in Valve’s Source Engine](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine.pdf) + [Slides](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine_Slides.pdf) | Jason Mitchell, Gary McTaggart, Chris Green | SIGGRAPH 2006 |
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | 2007 |
