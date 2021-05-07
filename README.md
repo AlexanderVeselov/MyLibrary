@@ -163,5 +163,6 @@
 | [High-Performance Image Filters via Sparse Approximations](https://www.graphics.rwth-aachen.de/publication/03312/) | Kersten Schuster, Philip Trettner, Leif Kobbelt | PACMGIT 2020 |
 | [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) | Jakub Boksansky | 2021 |
 | [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) | Daniel Meister, Shinji Ogaki, Carsten Benthin, Michael J. Doyle, Michael Guthe, Jiří Bittner | Eurographics 2021 |
+| [Improved Shader and Texture Level of Detail Using Ray Cones](http://www.jcgt.org/published/0010/01/01/) | Tomas Akenine-Möller, Cyril Crassin, Jakub Boksansky, Laurent Belcour, Alexey Panteleev, Oli Wright | JCGT 2021 |
 | [Scaling Probe-Based Real-Time Dynamic Global Illumination for Production](http://www.jcgt.org/published/0010/02/01/) | Zander Majercik, Adam Marrs, Josef Spjut, Morgan McGuire | JCGT 2021 |
 | [Monte Carlo Estimators for Differential Light Transport](https://rgl.epfl.ch/publications/Zeltner2021MonteCarlo) | Tizian Zeltner, Sébastien Speierer, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2021 |
