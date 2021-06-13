@@ -168,6 +168,7 @@
 | [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) | Daniel Meister, Shinji Ogaki, Carsten Benthin, Michael J. Doyle, Michael Guthe, Jiří Bittner | Eurographics 2021 |
 | [Improved Shader and Texture Level of Detail Using Ray Cones](http://www.jcgt.org/published/0010/01/01/) | Tomas Akenine-Möller, Cyril Crassin, Jakub Boksansky, Laurent Belcour, Alexey Panteleev, Oli Wright | JCGT 2021 |
 | [Scaling Probe-Based Real-Time Dynamic Global Illumination for Production](http://www.jcgt.org/published/0010/02/01/) | Zander Majercik, Adam Marrs, Josef Spjut, Morgan McGuire | JCGT 2021 |
+| [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering](http://www.jcgt.org/published/0010/02/02/) | Yusuke Tokuyoshi, Anton Kaplanyan | JCGT 2021 |
 | [Neural Radiosity](https://arxiv.org/abs/2105.12319) | Saeed Hadadan, Shuhong Chen, Matthias Zwicker | ArXiv 2021 |
 | [Monte Carlo Estimators for Differential Light Transport](https://rgl.epfl.ch/publications/Zeltner2021MonteCarlo) | Tizian Zeltner, Sébastien Speierer, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2021 |
 | [BRDF Importance Sampling for Polygonal Lights](https://momentsingraphics.de/Siggraph2021.html) | Christoph Peters | SIGGRAPH 2021 |
