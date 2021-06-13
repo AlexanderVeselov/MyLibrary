@@ -171,3 +171,5 @@
 | [Neural Radiosity](https://arxiv.org/abs/2105.12319) | Saeed Hadadan, Shuhong Chen, Matthias Zwicker | ArXiv 2021 |
 | [Monte Carlo Estimators for Differential Light Transport](https://rgl.epfl.ch/publications/Zeltner2021MonteCarlo) | Tizian Zeltner, Sébastien Speierer, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2021 |
 | [BRDF Importance Sampling for Polygonal Lights](https://momentsingraphics.de/Siggraph2021.html) | Christoph Peters | SIGGRAPH 2021 |
+| [Unbiased VNDF Sampling for Backfacing Shading Normals](https://yusuketokuyoshi.com/papers/2021/Unbiased_VNDF_Sampling_for_Backfacing_Shading_Normals.pdf) | Yusuke Tokuyoshi | SIGGRAPH 2021 |
+| [Reliable Feature-Line Driven Quad-Remeshing](https://www.quadmesh.cloud/) | Nico Pietroni, Stefano Nuvoli, Thomas Alderighi, Paolo Cignoni, Marco Tarini | SIGGRAPH 2021 |
