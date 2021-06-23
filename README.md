@@ -12,6 +12,7 @@
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
 | [Illumination for computer generated pictures](https://users.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf) + [Full Dissertation](https://apps.dtic.mil/dtic/tr/fulltext/u2/a008786.pdf) | Bui Tuong Phong | 1975 |
+| [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) | Turner Whitted | CACM 1980 |
 | [A Reflectance Model for Computer Graphics](https://inst.eecs.berkeley.edu/~cs294-13/fa09/lectures/cookpaper.pdf) | Robert L. Cook, Kenneth E. Torrance | SIGGRAPH 1981 |
 | [Modeling the Interaction of Light Between Diffuse Surfaces ](https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S12/papers/goral_radiosity_84.pdf) | Cindy M. Goral, Kenneth E. Torrance, Donald P. Greenberg, Bennett Battaile | SIGGRAPH 1984 |
 | [Bi-Directional Path Tracing](https://www.cs.princeton.edu/courses/archive/fall03/cs526/papers/lafortune93.pdf) | Eric P. Lafortune, Yves D. Willems | Compugraphics 1993 |
