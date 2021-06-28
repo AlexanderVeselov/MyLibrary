@@ -172,6 +172,7 @@
 | [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering](http://www.jcgt.org/published/0010/02/02/) | Yusuke Tokuyoshi, Anton Kaplanyan | JCGT 2021 |
 | [Neural Radiosity](https://arxiv.org/abs/2105.12319) | Saeed Hadadan, Shuhong Chen, Matthias Zwicker | ArXiv 2021 |
 | [Rearchitecting Spatiotemporal Resampling for Production](https://research.nvidia.com/publication/2021-07_Rearchitecting-Spatiotemporal-Resampling) | Chris Wyman, Alexey Panteleev | HPG 2021|
+| [ReSTIR GI: Path Resampling for Real-Time Path Tracing](https://research.nvidia.com/publication/2021-06_ReSTIR-GI%3A-Path) | Yaobin Ouyang, Shiqiu Liu, Markus Kettunen, Matt Pharr, Jacopo Pantaleoni | HPG 2021 |
 | [Monte Carlo Estimators for Differential Light Transport](https://rgl.epfl.ch/publications/Zeltner2021MonteCarlo) | Tizian Zeltner, Sébastien Speierer, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2021 |
 | [BRDF Importance Sampling for Polygonal Lights](https://momentsingraphics.de/Siggraph2021.html) | Christoph Peters | SIGGRAPH 2021 |
 | [Unbiased VNDF Sampling for Backfacing Shading Normals](https://yusuketokuyoshi.com/papers/2021/Unbiased_VNDF_Sampling_for_Backfacing_Shading_Normals.pdf) | Yusuke Tokuyoshi | SIGGRAPH 2021 |
