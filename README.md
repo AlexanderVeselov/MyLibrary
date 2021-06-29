@@ -29,6 +29,7 @@
 | [Irradiance Volumes for Games](https://developer.amd.com/wordpress/media/2012/10/Tatarchuk_Irradiance_Volumes.pdf) | N. Tatarchuk | GDC Europe 2005 |
 | [Precomputed Radiance Transfer: Theory and Practice](http://www0.cs.ucl.ac.uk/staff/j.kautz/PRTCourse/) | J. Kautz, J. Lehtinen, Peter-Pike Sloan | SIGGRAPH 2005 |
 | [Energy Redistribution Path Tracing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.5938&rep=rep1&type=pdf) + [Video talk](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F1073204.1073330&file=pps094.mp4) | David Cline, Justin Talbot, Parris Egbert | SIGGRAPH 2005 |
+| [Reflective Shadow Maps](https://users.soe.ucsc.edu/~pang/160/s13/proposal/mijallen/proposal/media/p203-dachsbacher.pdf) | Carsten Dachsbacher, Marc Stamminger | SIGGRAPH 2005 |
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1662&context=etd) | Justin Talbot | EGS 2005 |
 | [Non-interleaved Deferred Shading of Interleaved Sample Patterns](https://liris.cnrs.fr/Documents/Liris-2476.pdf) | Benjamin Segovia, Jean-Claude Iehl, Bernard Péroche | Eurographics 2006 |
 | [Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform](https://www.comp.nus.edu.sg/~tants/jfa.html) | Guodong Rong, Tiow-Seng Tan | i3D 2006 |
