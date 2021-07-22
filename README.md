@@ -9,7 +9,7 @@
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
 - [KIT Computer Graphics Group research page](https://cg.ivd.kit.edu/english/publikationen.php)
 
-## Author's pages
+## Authors' pages
 - [Matt Pharr](https://pharr.org/matt/#papers)
 - [Iliyan Georgiev](http://www.iliyan.com/publications)
 - [Edward Liu](http://behindthepixels.io/publications/)
