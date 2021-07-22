@@ -9,6 +9,16 @@
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
 - [KIT Computer Graphics Group research page](https://cg.ivd.kit.edu/english/publikationen.php)
 
+## Author's pages
+- [Matt Pharr](https://pharr.org/matt/#papers)
+- [Iliyan Georgiev](http://www.iliyan.com/publications)
+- [Edward Liu](http://behindthepixels.io/publications/)
+- [Thomas Müller](https://tom94.net/)
+- [Yusuke Tokuyoshi](https://yusuketokuyoshi.com/)
+- [Ari Silvennoinen](https://arisilvennoinen.github.io/)
+- [Peter-Pike Sloan](https://www.ppsloan.org/publications/)
+- [Wojciech Jarosz](https://cs.dartmouth.edu/wjarosz/)
+
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
 | [Illumination for computer generated pictures](https://users.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf) + [Full Dissertation](https://apps.dtic.mil/dtic/tr/fulltext/u2/a008786.pdf) | Bui Tuong Phong | 1975 |
