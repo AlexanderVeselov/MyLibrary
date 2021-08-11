@@ -193,4 +193,5 @@
 | [Reliable Feature-Line Driven Quad-Remeshing](https://www.quadmesh.cloud/) | Nico Pietroni, Stefano Nuvoli, Thomas Alderighi, Paolo Cignoni, Marco Tarini | SIGGRAPH 2021 |
 | [Real-time Neural Radiance Caching for Path Tracing](https://tom94.net/data/publications/mueller21realtime/mueller21realtime.pdf) | Thomas Müller, Fabrice Rousselle, Jan Novák, Alexander Keller | SIGGRAPH 2021 |
 | [Radiance Caching for Real-Time Global Illumination](http://advances.realtimerendering.com/s2021/Radiance%20Caching%20for%20real-time%20Global%20Illumination%20(SIGGRAPH%202021).pptx) | Daniel Wright | SIGGRAPH 2021 |
+| [Global Illumination Based on Surfels](http://advances.realtimerendering.com/s2021/SIGGRAPH%20Advances%202021%20-%20Surfel%20GI.pdf) | Andreas Brinck, Xiangshun Bei, Henrik Halen, Kyle Hayward | SIGGRAPH 2021 |
 | [Moving Basis Decomposition for Precomputed Light Transport](https://arisilvennoinen.github.io/Publications/mbd.pdf) | Ari Silvennoinen, Peter-Pike Sloan | EGSR 2021 |
