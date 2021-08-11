@@ -130,6 +130,7 @@
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
 | [A Life of a Bokeh](https://advances.realtimerendering.com/s2018/2018-08-13-SIGGRAPH-A-Life-of-a-Bokeh.pptx) | Guillaume Abadie | SIGGRAPH 2018 |
 | [Sampling the GGX Distribution of Visible Normals](http://jcgt.org/published/0007/04/01/) | Eric Heitz | JCGT 2018 |
+| [Importance Sampling of Many Lights with Adaptive Tree Splitting](http://www.aconty.com/pdf/many-lights-hpg2018.pdf) | Alejandro Conty Estevez, Christopher Kulla | HPG 2018 |
 | [Deferred Adaptive Compute Shading](https://geometrian.com/data/research/dacs/dacs-hpg2018-pres.pdf) | Ian Mallett, Cem Yuksel | HPG 2018 |
 | [Gradient Estimation for Real-Time Adaptive Temporal Filtering](http://cg.ivd.kit.edu/atf.php) | Christoph Schied, Christoph Peters, Carsten Dachsbacher | PACMCGIT 2018 |
 | [Horizon-Based Indirect Lighting](https://drive.google.com/file/d/1fmceYuM5J2s8puNHZ9o4OF3YjqzIvmRR/view) + [Code](https://github.com/Patapom/GodComplex/tree/master/Tests/TestHBIL) | Benoît “Patapom” Mayaux | Site, 2018 |
