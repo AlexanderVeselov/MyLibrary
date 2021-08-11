@@ -192,6 +192,11 @@
 | [Unbiased VNDF Sampling for Backfacing Shading Normals](https://yusuketokuyoshi.com/papers/2021/Unbiased_VNDF_Sampling_for_Backfacing_Shading_Normals.pdf) | Yusuke Tokuyoshi | SIGGRAPH 2021 |
 | [Reliable Feature-Line Driven Quad-Remeshing](https://www.quadmesh.cloud/) | Nico Pietroni, Stefano Nuvoli, Thomas Alderighi, Paolo Cignoni, Marco Tarini | SIGGRAPH 2021 |
 | [Real-time Neural Radiance Caching for Path Tracing](https://tom94.net/data/publications/mueller21realtime/mueller21realtime.pdf) | Thomas Müller, Fabrice Rousselle, Jan Novák, Alexander Keller | SIGGRAPH 2021 |
+| [Improved Spatial Upscaling through FidelityFX Super Resolution for Real-Time Game Engines](http://advances.realtimerendering.com/s2021/Unity%20AMD%20FSR%20-%20SIGGRAPH%202021.pdf) | Timothy Lottes, Kleber Garcia | SIGGRAPH 2021 |
+| [Experimenting With Concurrent Binary Trees for Large-scale Terrain Rendering](http://advances.realtimerendering.com/s2021/Siggraph21%20Terrain%20Tessellation.pdf) | Thomas Deliot, Jonathan Dupuy, Kees Rijnen, Xiaoling Yao | SIGGRAPH 2021 |
+| [Large-Scale Global Illumination at Activision](http://advances.realtimerendering.com/s2021/Silvennoinen%20-%20SIGGRAPH%202021%20Advances_slim.pptx) | Ari Silvennoinen | SIGGRAPH 2021 |
+| [Real-Time Samurai Cinema: Lighting, Atmosphere, and Tonemapping in Ghost of Tsushima](http://advances.realtimerendering.com/s2021/jpatry_advances2021.pdf) | Jasmin Patry | SIGGRAPH 2021 |
+| [A Deep Dive into Nanite Virtualized Geometry](http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf) | Brian Karis, Rune Stubbe, Graham Wihlidal | SIGGRAPH 2021 |
 | [Radiance Caching for Real-Time Global Illumination](http://advances.realtimerendering.com/s2021/Radiance%20Caching%20for%20real-time%20Global%20Illumination%20(SIGGRAPH%202021).pptx) | Daniel Wright | SIGGRAPH 2021 |
 | [Global Illumination Based on Surfels](http://advances.realtimerendering.com/s2021/SIGGRAPH%20Advances%202021%20-%20Surfel%20GI.pdf) | Andreas Brinck, Xiangshun Bei, Henrik Halen, Kyle Hayward | SIGGRAPH 2021 |
 | [Moving Basis Decomposition for Precomputed Light Transport](https://arisilvennoinen.github.io/Publications/mbd.pdf) | Ari Silvennoinen, Peter-Pike Sloan | EGSR 2021 |
