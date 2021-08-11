@@ -110,6 +110,7 @@
 | [Specular Lobe-Aware Filtering and Upsampling for Interactive Indirect Illumination](http://www.jp.square-enix.com/tech/library/pdf/Specular%20Lobe-Aware%20Filtering%20and%20Upsampling%20for%20Interactive%20Indirect%20Illumination.pdf) | Yusuke Tokuyoshi | 2015 |
 | [Stochastic Light Culling](http://www.jcgt.org/published/0005/01/02/) + [Slides](https://yusuketokuyoshi.com/papers/2016/StochasticLightCulling_I3D2017.pdf) | Yusuke Tokuyoshi, Takahiro Harada | JCGT 2016 |
 | [Global Illumination in Tom Clancy’s The Division](http://mrakobes.com/Nikolay.Stefanov.GDC.2016.pdf) | Nikolay Stefanov | GDC 2016 |
+| [Rendering Rainbow Six Siege](https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2016/Presentations/El_Mansouri_Jalal_Rendering_Rainbow_Six.pdf) | Jalal Eddine El Mansouri | GDC 2016 |
 | [Volumetric Global Illumination At Treyarch](https://www.activision.com/cdn/research/Volumetric_Global_Illumination_at_Treyarch.pdf) | JT Hooker | SIGGRAPH 2016 |
 | [Blue-noise Dithered Sampling](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016.pdf) + [Slides](http://iliyan.com/publications/DitheredSampling/DitheredSampling_Sig2016_slides.7z) | I. Georgiev, M. Fajardo | SIGGRAPH 2016 |
 | [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) | Eric Heitz et al. | SIGGRAPH 2016 |
