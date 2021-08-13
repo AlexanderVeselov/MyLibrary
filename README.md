@@ -16,6 +16,8 @@
 - [Matt Pharr](https://pharr.org/matt/#papers)
 - [Morgan McGuire](https://casual-effects.com/)
 - [Iliyan Georgiev](http://www.iliyan.com/publications)
+- [Eric Heitz](https://eheitzresearch.wordpress.com/research/)
+- [Stephen Hill](https://blog.selfshadow.com/publications/)
 - [Anton Kaplanyan](http://kaplanyan.com/#publications)
 - [Arseny Kapoulkine](https://zeux.io/)
 - [Edward Liu](http://behindthepixels.io/publications/)
