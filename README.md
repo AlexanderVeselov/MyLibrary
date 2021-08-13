@@ -203,4 +203,6 @@
 | [A Deep Dive into Nanite Virtualized Geometry](http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf) | Brian Karis, Rune Stubbe, Graham Wihlidal | SIGGRAPH 2021 |
 | [Radiance Caching for Real-Time Global Illumination](http://advances.realtimerendering.com/s2021/Radiance%20Caching%20for%20real-time%20Global%20Illumination%20(SIGGRAPH%202021).pptx) | Daniel Wright | SIGGRAPH 2021 |
 | [Global Illumination Based on Surfels](http://advances.realtimerendering.com/s2021/SIGGRAPH%20Advances%202021%20-%20Surfel%20GI.pdf) | Andreas Brinck, Xiangshun Bei, Henrik Halen, Kyle Hayward | SIGGRAPH 2021 |
+| [Unity Rendering Architecture](http://enginearchitecture.realtimerendering.com/downloads/reac2021_unity_rendering_engine_architecture.pdf) | Sebastian Aaltonen, Timothy Cooper, Natalya Tatarchuk | SIGGRAPH 2021 |
+| [Geometry Rendering Pipeline Architecture at Activision](http://enginearchitecture.realtimerendering.com/downloads/reac2021_geometry_pipeline_rendering_architecture.pptx) | Michal Drobot | SIGGRAPH 2021 |
 | [Moving Basis Decomposition for Precomputed Light Transport](https://arisilvennoinen.github.io/Publications/mbd.pdf) | Ari Silvennoinen, Peter-Pike Sloan | EGSR 2021 |
