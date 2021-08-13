@@ -14,8 +14,10 @@
 
 ## Authors' pages
 - [Matt Pharr](https://pharr.org/matt/#papers)
+- [Morgan McGuire](https://casual-effects.com/)
 - [Iliyan Georgiev](http://www.iliyan.com/publications)
 - [Anton Kaplanyan](http://kaplanyan.com/#publications)
+- [Arseny Kapoulkine](https://zeux.io/)
 - [Edward Liu](http://behindthepixels.io/publications/)
 - [Thomas Müller](https://tom94.net/)
 - [Yusuke Tokuyoshi](https://yusuketokuyoshi.com/)
@@ -23,6 +25,8 @@
 - [Peter-Pike Sloan](https://www.ppsloan.org/publications/)
 - [Wojciech Jarosz](https://cs.dartmouth.edu/wjarosz/)
 - [Brian Karis](http://graphicrants.blogspot.com/)
+- [Chris Wyman](http://cwyman.org/papers.html)
+- [Cem Yuksel](http://www.cemyuksel.com/research/)
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
