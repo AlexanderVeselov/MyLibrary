@@ -30,6 +30,8 @@
 - [Brian Karis](http://graphicrants.blogspot.com/)
 - [Chris Wyman](http://cwyman.org/papers.html)
 - [Cem Yuksel](http://www.cemyuksel.com/research/)
+- [Sébastien Hillaire](https://sebh.github.io/publications/)
+- [Matt Pettineo](https://therealmjp.github.io/)
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
