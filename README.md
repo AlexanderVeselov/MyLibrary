@@ -9,6 +9,7 @@
 - [GDC Vault](https://www.gdcvault.com/)
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
 - [KIT Computer Graphics Group research page](https://cg.ivd.kit.edu/english/publikationen.php)
+- [EPFL RGL (Realistic Graphics Lab)](http://rgl.epfl.ch/publications)
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html)
 - [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 
