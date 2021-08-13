@@ -5,9 +5,12 @@
 
 - [SIGGRAPH Course: Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/)
 - [SIGGRAPH Course: Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
+- [SIGGRAPH Course: Rendering Engine Architecture](http://enginearchitecture.realtimerendering.com/)
 - [GDC Vault](https://www.gdcvault.com/)
 - [Graphics Programming Weekly - Article Database](https://www.jendrikillner.com/article_database/)
 - [KIT Computer Graphics Group research page](https://cg.ivd.kit.edu/english/publikationen.php)
+- [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html)
+- [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 
 ## Authors' pages
 - [Matt Pharr](https://pharr.org/matt/#papers)
