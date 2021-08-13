@@ -21,6 +21,7 @@
 - [Ari Silvennoinen](https://arisilvennoinen.github.io/)
 - [Peter-Pike Sloan](https://www.ppsloan.org/publications/)
 - [Wojciech Jarosz](https://cs.dartmouth.edu/wjarosz/)
+- [Brian Karis](http://graphicrants.blogspot.com/)
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
