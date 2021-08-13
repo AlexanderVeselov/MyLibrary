@@ -15,6 +15,7 @@
 ## Authors' pages
 - [Matt Pharr](https://pharr.org/matt/#papers)
 - [Iliyan Georgiev](http://www.iliyan.com/publications)
+- [Anton Kaplanyan](http://kaplanyan.com/#publications)
 - [Edward Liu](http://behindthepixels.io/publications/)
 - [Thomas Müller](https://tom94.net/)
 - [Yusuke Tokuyoshi](https://yusuketokuyoshi.com/)
