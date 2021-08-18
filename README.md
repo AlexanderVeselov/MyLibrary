@@ -168,6 +168,7 @@
 | [Blockwise Multi-Order Feature Regression for Real-Time Path Tracing Reconstruction](https://webpages.tuni.fi/vga/publications/Blockwise_Multi-Order_Feature_Regression_for_Real-Time_Path_Tracing_Reconstruction.html) + [Video](https://dl.acm.org/doi/10.1145/3269978#) | Matias Koskela, Kalle Immonen, Markku Mäkitalo, Alessandro Foi, Timo Viitanen, Pekka Jääskeläinen, Heikki Kultala, Jarmo Takala | SIGGRAPH 2019 |
 | [Reparameterizing discontinuous integrands for differentiable rendering](https://rgl.epfl.ch/publications/Loubet2019Reparameterizing) | Guillaume Loubet, Nicolas Holzschuch, Wenzel Jakob | SIGGRAPH Asia 2019 |
 | [Mitsuba 2: A Retargetable Forward and Inverse Renderer](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) | Merlin Nimier-David, Delio Vicini, Tizian Zeltner, Wenzel Jakob | SIGGRAPH Asia 2019 |
+| [Ray Guiding for Production Lightmap Baking](https://arisilvennoinen.github.io/Publications/ray_guiding_For_production_lightmap_baking_author_version.pdf) | Ari Silvennoinen, Peter-Pike Sloan | SIGGRAPH Asia 2019 |
 | [Neural Temporal Adaptive Sampling and Denoising](https://research.nvidia.com/sites/default/files/pubs/2020-05_Neural-Temporal-Adaptive/NTASAD_preprint.pdf) | Hasselgren, Munkberg, Salvi, Patney, Lefohn | Eurographics 2020 |
 | [On Ray Reordering Techniques for Faster GPU Ray Tracing](https://meistdan.github.io/publications/raysorting/paper.pdf) | Meister, Bokšanský, Guthe, Bittner | i3D 2020 |
 | [Stochastic Substitute Trees for Real-Time Global Illumination](https://www.markussteinberger.net/papers/SST.pdf) + [Code](https://github.com/wotatz/sst-demo) | Wolfgang Tatzgern, Benedikt Mayr, Bernhard Kerbl, Markus Steinberger | i3D 2020 |
@@ -203,6 +204,7 @@
 | [Scaling Probe-Based Real-Time Dynamic Global Illumination for Production](http://www.jcgt.org/published/0010/02/01/) | Zander Majercik, Adam Marrs, Josef Spjut, Morgan McGuire | JCGT 2021 |
 | [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering](http://www.jcgt.org/published/0010/02/02/) | Yusuke Tokuyoshi, Anton Kaplanyan | JCGT 2021 |
 | [Neural Radiosity](https://arxiv.org/abs/2105.12319) | Saeed Hadadan, Shuhong Chen, Matthias Zwicker | ArXiv 2021 |
+| [Dynamic Diffuse Global Illumination Resampling](https://arxiv.org/abs/2108.05263) | Zander Majercik, Thomas Müller, Alexander Keller, Derek Nowrouzezahrai, Morgan McGuire | ArXiv 2021 |
 | [Rearchitecting Spatiotemporal Resampling for Production](https://research.nvidia.com/publication/2021-07_Rearchitecting-Spatiotemporal-Resampling) | Chris Wyman, Alexey Panteleev | HPG 2021|
 | [ReSTIR GI: Path Resampling for Real-Time Path Tracing](https://research.nvidia.com/publication/2021-06_ReSTIR-GI%3A-Path) | Yaobin Ouyang, Shiqiu Liu, Markus Kettunen, Matt Pharr, Jacopo Pantaleoni | HPG 2021 |
 | [Monte Carlo Estimators for Differential Light Transport](https://rgl.epfl.ch/publications/Zeltner2021MonteCarlo) | Tizian Zeltner, Sébastien Speierer, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2021 |
