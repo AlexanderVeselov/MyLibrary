@@ -12,6 +12,7 @@
 - [EPFL RGL (Realistic Graphics Lab)](http://rgl.epfl.ch/publications)
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html)
 - [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
+- [Light Transport Papers](https://drive.google.com/drive/folders/16A6Yj2esRTk0FP-ALr6XfxkGQvTb_1dD)
 
 ## Authors' pages
 - [Matt Pharr](https://pharr.org/matt/#papers)
