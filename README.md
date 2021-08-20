@@ -46,6 +46,7 @@
 | [Instant Radiosity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.2213&rep=rep1&type=pdf) + [Slides](http://www.cs.cornell.edu/courses/cs6630/2012sp/slides/Boyadzhiev-Matzen-InstantRadiosity.pdf) | Alexander Keller | SIGGRAPH 1997 |
 | [Robust monte carlo methods for light transport simulation](http://cseweb.ucsd.edu/~viscomp/classes/cse274/wi18/readings/veach_thesis.pdf) | Eric Veach | 1997 |
 | [Metropolis Light Transport](http://graphics.stanford.edu/papers/metro/) | Eric Veach, Leonidas J. Guibas | SIGGRAPH 1997 |
+| [Fast Minimum Storage Ray/Triangle Intersection](https://cadxfem.org/inf/Fast%20MinimumStorage%20RayTriangle%20Intersection.pdf) | Tomas Möller, Ben Trumbore | JGT 1997 |
 | [An Anisotropic Phong Light Reflection Model](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4504&rep=rep1&type=pdf) | Michael Ashikhmin, Peter Shirley | Journal of Graphics Tools 2000 |
 | [Weighted Importance Sampling Techniques for Monte Carlo Radiosity](https://www.researchgate.net/profile/Mateu-Sbert/publication/220853012_Weighted_Importance_Sampling_Techniques_for_Monte_Carlo_Radiosity/links/0912f5108656f3abc9000000/Weighted-Importance-Sampling-Techniques-for-Monte-Carlo-Radiosity.pdf) | Philippe Bekaert, Mateu Sbert, Yves D. Willems | Eurographics 2000 |
 | [An Efficient Representation for Irradiance Environment Maps](https://cseweb.ucsd.edu/~ravir/papers/envmap/envmap.pdf) | Ravi Ramamoorthi,  Pat Hanrahan | SIGGRAPH 2001 |
