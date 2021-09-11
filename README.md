@@ -224,3 +224,4 @@
 | [Unity Rendering Architecture](http://enginearchitecture.realtimerendering.com/downloads/reac2021_unity_rendering_engine_architecture.pdf) | Sebastian Aaltonen, Timothy Cooper, Natalya Tatarchuk | SIGGRAPH 2021 |
 | [Geometry Rendering Pipeline Architecture at Activision](http://enginearchitecture.realtimerendering.com/downloads/reac2021_geometry_pipeline_rendering_architecture.pptx) | Michal Drobot | SIGGRAPH 2021 |
 | [Moving Basis Decomposition for Precomputed Light Transport](https://arisilvennoinen.github.io/Publications/mbd.pdf) | Ari Silvennoinen, Peter-Pike Sloan | EGSR 2021 |
+| [Fast Volume Rendering with Spatiotemporal Reservoir Resampling ](https://dqlin.xyz/pubs/2021-sa-VOR/) | Daqi Lin, Chris Wyman, Cem Yuksel | SIGGRAPH Asia 2021 |
