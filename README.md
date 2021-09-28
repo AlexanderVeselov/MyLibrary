@@ -33,6 +33,7 @@
 - [Cem Yuksel](http://www.cemyuksel.com/research/)
 - [Sébastien Hillaire](https://sebh.github.io/publications/)
 - [Matt Pettineo](https://therealmjp.github.io/)
+- [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
@@ -223,5 +224,6 @@
 | [Global Illumination Based on Surfels](http://advances.realtimerendering.com/s2021/SIGGRAPH%20Advances%202021%20-%20Surfel%20GI.pdf) | Andreas Brinck, Xiangshun Bei, Henrik Halen, Kyle Hayward | SIGGRAPH 2021 |
 | [Unity Rendering Architecture](http://enginearchitecture.realtimerendering.com/downloads/reac2021_unity_rendering_engine_architecture.pdf) | Sebastian Aaltonen, Timothy Cooper, Natalya Tatarchuk | SIGGRAPH 2021 |
 | [Geometry Rendering Pipeline Architecture at Activision](http://enginearchitecture.realtimerendering.com/downloads/reac2021_geometry_pipeline_rendering_architecture.pptx) | Michal Drobot | SIGGRAPH 2021 |
+| [Hierarchical Neural Reconstruction for Path Guiding Using Hybrid Path and Photon Samples](https://cseweb.ucsd.edu/~ravir/shilinsig21.pdf) | Shilin Zhu, Zexiang Xu, Tiancheng Sun, Alexandr Kuznetsov, Mark Meyer, Henrik Wann Jensen, Hao Su, Ravi Ramamoorthi | SIGGRAPH 2021 |
 | [Moving Basis Decomposition for Precomputed Light Transport](https://arisilvennoinen.github.io/Publications/mbd.pdf) | Ari Silvennoinen, Peter-Pike Sloan | EGSR 2021 |
 | [Fast Volume Rendering with Spatiotemporal Reservoir Resampling ](https://dqlin.xyz/pubs/2021-sa-VOR/) | Daqi Lin, Chris Wyman, Cem Yuksel | SIGGRAPH Asia 2021 |
