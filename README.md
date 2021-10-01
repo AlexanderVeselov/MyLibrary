@@ -206,6 +206,7 @@
 | [Improved Shader and Texture Level of Detail Using Ray Cones](http://www.jcgt.org/published/0010/01/01/) | Tomas Akenine-Möller, Cyril Crassin, Jakub Boksansky, Laurent Belcour, Alexey Panteleev, Oli Wright | JCGT 2021 |
 | [Scaling Probe-Based Real-Time Dynamic Global Illumination for Production](http://www.jcgt.org/published/0010/02/01/) | Zander Majercik, Adam Marrs, Josef Spjut, Morgan McGuire | JCGT 2021 |
 | [Stable Geometric Specular Antialiasing with Projected-Space NDF Filtering](http://www.jcgt.org/published/0010/02/02/) | Yusuke Tokuyoshi, Anton Kaplanyan | JCGT 2021 |
+| [Fast temporal reprojection without motion vectors](https://www.jcgt.org/published/0010/03/02/) | Johannes Hanika, Lorenzo Tessari, Carsten Dachsbacher | JCGT 2021 |
 | [Neural Radiosity](https://arxiv.org/abs/2105.12319) | Saeed Hadadan, Shuhong Chen, Matthias Zwicker | ArXiv 2021 |
 | [Dynamic Diffuse Global Illumination Resampling](https://arxiv.org/abs/2108.05263) | Zander Majercik, Thomas Müller, Alexander Keller, Derek Nowrouzezahrai, Morgan McGuire | ArXiv 2021 |
 | [Rearchitecting Spatiotemporal Resampling for Production](https://research.nvidia.com/publication/2021-07_Rearchitecting-Spatiotemporal-Resampling) | Chris Wyman, Alexey Panteleev | HPG 2021|
