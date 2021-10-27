@@ -54,6 +54,7 @@
 | [Precomputed Radiance Transfer for Real-Time Rendering in Dynamic, Low-Frequency Lighting Environments](https://sites.fas.harvard.edu/~cs278/papers/prt.pdf) + [PRTCourse](http://www0.cs.ucl.ac.uk/staff/j.kautz/PRTCourse/) + [Normal Mapping for PRT](https://www.ppsloan.org/publications/NMPRT.pdf) + [Deformations](https://www.ppsloan.org/publications/ldprt_final05.pdf) | Peter-Pike Sloan, Jan Kautz, John Snyder | SIGGRAPH 2002 |
 | [Global Illumination Compedinum](https://people.cs.kuleuven.be/~philip.dutre/GI/TotalCompendium.pdf) | Philip Dutré | |
 | [Half-Life 2 / Valve Source Shading](https://steamcdn-a.akamaihd.net/apps/valve/2004/GDC2004_Half-Life2_Shading.pdf) | Gary McTaggart | GDC 2004 |
+| [Deferred Shading](https://shawnhargreaves.com/DeferredShading.pdf) | Shawn Hargreaves | GDC 2004 |
 | [Irradiance Volumes for Games](https://developer.amd.com/wordpress/media/2012/10/Tatarchuk_Irradiance_Volumes.pdf) | N. Tatarchuk | GDC Europe 2005 |
 | [Precomputed Radiance Transfer: Theory and Practice](http://www0.cs.ucl.ac.uk/staff/j.kautz/PRTCourse/) | J. Kautz, J. Lehtinen, Peter-Pike Sloan | SIGGRAPH 2005 |
 | [Energy Redistribution Path Tracing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.5938&rep=rep1&type=pdf) + [Video talk](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F1073204.1073330&file=pps094.mp4) | David Cline, Justin Talbot, Parris Egbert | SIGGRAPH 2005 |
