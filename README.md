@@ -63,6 +63,7 @@
 | [Importance Resampling for Global Illumination](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1662&context=etd) | Justin Talbot | EGS 2005 |
 | [Non-interleaved Deferred Shading of Interleaved Sample Patterns](https://liris.cnrs.fr/Documents/Liris-2476.pdf) | Benjamin Segovia, Jean-Claude Iehl, Bernard Péroche | Eurographics 2006 |
 | [Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform](https://www.comp.nus.edu.sg/~tants/jfa.html) | Guodong Rong, Tiow-Seng Tan | i3D 2006 |
+| [Variance Shadow Maps](https://www.intel.com/content/dam/develop/external/us/en/documents/vsm-paper-182631.pdf) | William Donnelly, Andrew Lauritzen | i3D 2006 |
 | [HDR in Valve’s Source Engine ](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_HDRInValvesSourceEngine_Slides.pdf) | Gary McTaggart | SIGGRAPH 2006 |
 | [Shading in Valve’s Source Engine](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine.pdf) + [Slides](https://steamcdn-a.akamaihd.net/apps/valve/2006/SIGGRAPH06_Course_ShadingInValvesSourceEngine_Slides.pdf) | Jason Mitchell, Gary McTaggart, Chris Green | SIGGRAPH 2006 |
 | [Accelerated regular grid traversals using extended anisotropic chessboard distance fields on a parallel stream processor](http://user.ceng.metu.edu.tr/~akyuz/vh/grid.pdf) | Alphan Es, Veysi Isler | 2007 |
