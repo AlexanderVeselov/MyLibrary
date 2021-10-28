@@ -128,6 +128,7 @@
 | [The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn](https://www.guerrilla-games.com/read/the-real-time-volumetric-cloudscapes-of-horizon-zero-dawn) | Andrew Schneider | SIGGRAPH 2015 |
 | [Dynamic Occlusion with Signed Distance Fields](http://advances.realtimerendering.com/s2015/DynamicOcclusionWithSignedDistanceFields.pdf) | Daniel Wright | SIGGRAPH 2015 |
 | [Advanced Lighting R&D at Ready At Dawn Studios](https://blog.selfshadow.com/publications/s2015-shading-course/rad/s2015_pbs_rad_slides.pdf) | David Neubelt, Matt Pettineo | SIGGRAPH 2015 |
+| [Moment Shadow Mapping](https://momentsingraphics.de/I3D2015.html) + [Thesis](https://momentsingraphics.de/MasterThesis.html) | Christoph Peters, Reinhard Klein | i3D 2015 |
 | [Horizon Occlusion for Normal Mapped Reflections](https://marmosetco.tumblr.com/post/81245981087) | Jeff Russell | 2015 |
 | [Specular Lobe-Aware Filtering and Upsampling for Interactive Indirect Illumination](http://www.jp.square-enix.com/tech/library/pdf/Specular%20Lobe-Aware%20Filtering%20and%20Upsampling%20for%20Interactive%20Indirect%20Illumination.pdf) | Yusuke Tokuyoshi | 2015 |
 | [Stochastic Light Culling](http://www.jcgt.org/published/0005/01/02/) + [Slides](https://yusuketokuyoshi.com/papers/2016/StochasticLightCulling_I3D2017.pdf) | Yusuke Tokuyoshi, Takahiro Harada | JCGT 2016 |
