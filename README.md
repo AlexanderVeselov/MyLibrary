@@ -34,6 +34,7 @@
 - [Sébastien Hillaire](https://sebh.github.io/publications/)
 - [Matt Pettineo](https://therealmjp.github.io/)
 - [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+- [Christoph Peters](https://momentsingraphics.de/Publications.html)
 
 | Paper Name + Link  | Authors | Year/Event | 
 | ---------- | ------------- | ------------- |
