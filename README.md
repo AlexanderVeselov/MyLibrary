@@ -92,8 +92,10 @@
 | [VoxelPipe: A Programmable Pipeline for 3D Voxelization](https://research.nvidia.com/publication/voxelpipe-programmable-pipeline-3d-voxelization) | Jacopo Pantaleoni | HPG 2011 |
 | [Bidirectional light transport with vertex merging](http://iliyan.com/publications/VertexMergingSketch) | Iliyan Georgiev, Jaroslav Křivánek, Philipp Slusallek | SIGGRAPH Asia 2011 |
 | [The Technology Behind the DirectX 11 Unreal Engine "Samaritan" Demo](https://www.nvidia.com/content/PDF/GDC2011/GDC2011EpicNVIDIAComposite.pdf) + [Video](https://www.gdcvault.com/play/1014666/-SPONSORED-The-Technology-Behind) | Martin Mittring, Bryan Dudash | GDC 2011 |
+| [Introduction to GPU Radix Sort](http://www.heterogeneouscompute.org/wordpress/wp-content/uploads/2011/06/RadixSort.pdf) | Takahiro Harada, Lee Howes | 2011 |
 | [Deferred Radiance Transfer Volumes: Global Illumination in Far Cry 3](https://www.gdcvault.com/play/1015326/Deferred-Radiance-Transfer-Volumes-Global) | Nikolay Stefanov | GDC 2012 |
 | [Stable SSAO in Battlefield 3 with Selective Temporal Filtering (Video)](https://www.gdcvault.com/play/1015538/Stable-SSAO-in-Battlefield-3) + [Slides](https://www.ea.com/frostbite/news/stable-ssao-in-battlefield-3-with-selective-temporal-filtering) | Louis Bavoil | GDC 2012 |
+| [Forward+: Bringing Deferred Lighting to the Next Level](https://takahiroharada.files.wordpress.com/2015/04/forward_plus.pdf) | Takahiro Harada, Jay McKee, Jason C.Yang | EGSR 2012 |
 | [Light Probe Interpolation Using Tetrahedral Tessellations](https://www.gdcvault.com/play/1015312/Light-Probe-Interpolation-Using-Tetrahedral) | Robert Cupisz | SIGGRAPH 2012 |
 | [Graphics Gems for Games - Findings from Avalanche Studios (Just Cause 2) ](http://www.humus.name/Articles/Persson_GraphicsGemsForGames.pdf) | Emil Persson | SIGGRAPH 2012 |
 | [Axis-Aligned Filtering for Interactive Sampled Soft Shadows](http://graphics.berkeley.edu/papers/UdayMehta-AAF-2012-12/UdayMehta-AAF-2012-12.pdf) | Mehta et al. | SIGGRAPH 2012 |
