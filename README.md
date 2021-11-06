@@ -73,6 +73,7 @@
 | [Joint Bilateral Upsampling](https://johanneskopf.de/publications/jbu/paper/FinalPaper_0185.pdf) | Johannes Kopf, Michael F. Cohen, Dani Lischinski, Matt Uyttendaele | SIGGRAPH 2007 |
 | [Finding Next Gen – CryEngine 2](http://developer.amd.com/wordpress/media/2012/10/Chapter8-Mittring-Finding_NextGen_CryEngine2.pdf) | Martin Mittring | SIGGRAPH 2007 |
 | [Microfacet Models for Refraction through Rough Surfaces](https://www.graphics.cornell.edu/~bjw/microfacetbsdf.pdf) | Bruce Walter, Stephen R. Marschner, Hongsong  Li, Kenneth E. Torrance | ESGR 2007 |
+| [Convolution shadow maps](https://jankautz.com/publications/csmEGSR07.pdf) | Thomas Annen, Tom Mertens, Philippe Bekaert, Hans-Peter Seidel, Jan Kautz | EGSR 2007 |
 | [Raytracing Prefiltered Occlusion for Aggregate Geometry](https://graphics.stanford.edu/~boulos/papers/prefilter_rt08.pdf) | D. Lacewell, B. Burley, S. Boulos, P. Shirley | 3rd Symposium on Interactive Ray Tracing (2008) |
 | [Stupid Spherical Harmonics (SH) Tricks](https://www.ppsloan.org/publications/StupidSH36.pdf) | Peter-Pike Sloan | GDC 2008 |
 | [Post Processing in The Orange Box](https://steamcdn-a.akamaihd.net/apps/valve/2008/GDC2008_PostProcessingInTheOrangeBox.pdf) | Alex Vlachos | GDC 2008 |
