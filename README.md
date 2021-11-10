@@ -161,6 +161,7 @@
 | [Progressive Multi-Jittered Sample Sequences](https://graphics.pixar.com/library/ProgressiveMultiJitteredSampling/paper.pdf) | Per Christensen, Andrew Kensler, Charlie Kilpatrick | Eurographics 2018 |
 | [Introduction to DirectX RayTracing](http://intro-to-dxr.cwyman.org/) | Chris Wyman, Shawn Hargreaves, Peter Shirley, Colin Barré-Brisebois | SIGGRAPH 2018 |
 | [A Life of a Bokeh](https://advances.realtimerendering.com/s2018/2018-08-13-SIGGRAPH-A-Life-of-a-Bokeh.pptx) | Guillaume Abadie | SIGGRAPH 2018 |
+| [Integrating clipped spherical harmonics expansions](https://cs.dartmouth.edu/wjarosz/publications/belcour18integrating.html) | Laurent Belcour, Guofu Xie, Christophe Hery, Mark Meyer, Wojciech Jarosz, Derek Nowrouzezahrai | SIGGRAPH 2018 |
 | [Sampling the GGX Distribution of Visible Normals](http://jcgt.org/published/0007/04/01/) | Eric Heitz | JCGT 2018 |
 | [Importance Sampling of Many Lights with Adaptive Tree Splitting](http://www.aconty.com/pdf/many-lights-hpg2018.pdf) | Alejandro Conty Estevez, Christopher Kulla | HPG 2018 |
 | [Deferred Adaptive Compute Shading](https://geometrian.com/data/research/dacs/dacs-hpg2018-pres.pdf) | Ian Mallett, Cem Yuksel | HPG 2018 |
