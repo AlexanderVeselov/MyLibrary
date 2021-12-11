@@ -226,6 +226,7 @@
 | [Fast temporal reprojection without motion vectors](https://www.jcgt.org/published/0010/03/02/) | Johannes Hanika, Lorenzo Tessari, Carsten Dachsbacher | JCGT 2021 |
 | [Neural Radiosity](https://arxiv.org/abs/2105.12319) | Saeed Hadadan, Shuhong Chen, Matthias Zwicker | ArXiv 2021 |
 | [Dynamic Diffuse Global Illumination Resampling](https://arxiv.org/abs/2108.05263) | Zander Majercik, Thomas Müller, Alexander Keller, Derek Nowrouzezahrai, Morgan McGuire | ArXiv 2021 |
+| [Plenoxels: Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/) | Alex Yu, Sara Fridovich-Keil, Matthew Tancik, Qinhong Chen, Benjamin Recht, Angjoo Kanazawa | ArXiv 2021 |
 | [Rearchitecting Spatiotemporal Resampling for Production](https://research.nvidia.com/publication/2021-07_Rearchitecting-Spatiotemporal-Resampling) | Chris Wyman, Alexey Panteleev | HPG 2021|
 | [ReSTIR GI: Path Resampling for Real-Time Path Tracing](https://research.nvidia.com/publication/2021-06_ReSTIR-GI%3A-Path) | Yaobin Ouyang, Shiqiu Liu, Markus Kettunen, Matt Pharr, Jacopo Pantaleoni | HPG 2021 |
 | [Monte Carlo Estimators for Differential Light Transport](https://rgl.epfl.ch/publications/Zeltner2021MonteCarlo) | Tizian Zeltner, Sébastien Speierer, Iliyan Georgiev, Wenzel Jakob | SIGGRAPH 2021 |
@@ -245,3 +246,4 @@
 | [Hierarchical Neural Reconstruction for Path Guiding Using Hybrid Path and Photon Samples](https://cseweb.ucsd.edu/~ravir/shilinsig21.pdf) | Shilin Zhu, Zexiang Xu, Tiancheng Sun, Alexandr Kuznetsov, Mark Meyer, Henrik Wann Jensen, Hao Su, Ravi Ramamoorthi | SIGGRAPH 2021 |
 | [Moving Basis Decomposition for Precomputed Light Transport](https://arisilvennoinen.github.io/Publications/mbd.pdf) | Ari Silvennoinen, Peter-Pike Sloan | EGSR 2021 |
 | [Fast Volume Rendering with Spatiotemporal Reservoir Resampling ](https://dqlin.xyz/pubs/2021-sa-VOR/) | Daqi Lin, Chris Wyman, Cem Yuksel | SIGGRAPH Asia 2021 |
+| [Tiled Reservoir Sampling for Many-Light Rendering](https://yusuketokuyoshi.com/papers/2021/TiledReservoirSampling21-11-ecdc.pdf) | Yusuke Tokuyoshi | 2021 |
