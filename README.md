@@ -42,6 +42,7 @@
 | [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/Papers/p343-whitted.pdf) | Turner Whitted | CACM 1980 |
 | [A Reflectance Model for Computer Graphics](https://inst.eecs.berkeley.edu/~cs294-13/fa09/lectures/cookpaper.pdf) | Robert L. Cook, Kenneth E. Torrance | SIGGRAPH 1981 |
 | [Modeling the Interaction of Light Between Diffuse Surfaces ](https://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S12/papers/goral_radiosity_84.pdf) | Cindy M. Goral, Kenneth E. Torrance, Donald P. Greenberg, Bennett Battaile | SIGGRAPH 1984 |
+| [Ray Tracing Volume  Densities](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.3394&rep=rep1&type=pdf) | James Kajiya, Brian Von Herren | SIGGRAPH 1984 |
 | [The Reyes Rendering Architecture](https://graphics.pixar.com/library/Reyes/) | Robert L. Cook, Loren Carpenter, Edwin Catmull | SIGGRAPH 1987 |
 | [Bi-Directional Path Tracing](https://www.cs.princeton.edu/courses/archive/fall03/cs526/papers/lafortune93.pdf) | Eric P. Lafortune, Yves D. Willems | Compugraphics 1993 |
 | [Radiosity and Realistic Image Synthesis](https://pdfs.semanticscholar.org/b292/90e5c40396b40171f2bbed6ed29843be6e31.pdf) | Michael F. Cohen | Book, 1993 |
