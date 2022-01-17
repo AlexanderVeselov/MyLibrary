@@ -249,3 +249,4 @@
 | [Moving Basis Decomposition for Precomputed Light Transport](https://arisilvennoinen.github.io/Publications/mbd.pdf) | Ari Silvennoinen, Peter-Pike Sloan | EGSR 2021 |
 | [Fast Volume Rendering with Spatiotemporal Reservoir Resampling ](https://dqlin.xyz/pubs/2021-sa-VOR/) | Daqi Lin, Chris Wyman, Cem Yuksel | SIGGRAPH Asia 2021 |
 | [Tiled Reservoir Sampling for Many-Light Rendering](https://yusuketokuyoshi.com/papers/2021/TiledReservoirSampling21-11-ecdc.pdf) | Yusuke Tokuyoshi | 2021 |
+| [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/) | Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller | ArXiv 2022 |
