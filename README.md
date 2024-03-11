@@ -1,5 +1,6 @@
 # MyLibrary
-- [ ] TODO: organize this in a better way
+Join my telegram channel, where I post everything related to graphics!
+https://t.me/cg_lib
 
 ## Important resources
 
